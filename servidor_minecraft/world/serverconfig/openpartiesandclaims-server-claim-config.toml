@@ -34,11 +34,11 @@
 			#When enabled, claimed chunk protection includes protection against fluids (e.g. lava) flowing into the protected chunks from outside. This does not protect wilderness.
 			fluidBarrier = true
 			#When enabled, claimed chunk protection includes protection against being affected by pistons outside of the protected chunks. This does not protect wilderness.
-			pistonBarrier = true
+			pistonBarrier = false
 			#When enabled, the item use protection is extended to some right-click held item use in chunks directly next to the claimed ones. Item use affected by this is usually things that still work while looking at the sky (not block or entity) or item use with custom ray-tracing for blocks/fluids/entities (e.g. placing things on water), but also any item use of "additional banned items" configured on the server. Item use protection exceptions (e.g. food, potions etc) still apply.
-			neighborChunksItemUse = true
+			neighborChunksItemUse = false
 			#When enabled, claimed chunk protection includes protection against dispensers that are "touching" and facing the protected chunks from outside. This does not protect wilderness.
-			dispenserBarrier = true
+			dispenserBarrier = false
 			#When a player group is chosen, claimed chunk protection includes protection for items and experience that have been dropped on a player death, if the player is in the group, even if the standard item pickup is allowed. The protected items are only accessible to the player that dropped them and the entity/player that killed the player.
 			#The built-in player groups are:
 			#
@@ -124,7 +124,7 @@
 				#(P) Party - players in the same party as you.
 				#(A) Allies - players in parties that are allied by yours.
 				#(E) Every - all players.
-				platesByPlayers = "N"
+				platesByPlayers = "E"
 				#When a player group is chosen, claimed chunk protection makes an exception for pressure plates being pressed by mobs owned by players in the group.
 				#The built-in player groups are:
 				#
@@ -140,7 +140,7 @@
 				#(P) Party - entities owned by players in the same party as you.
 				#(A) Allies - entities owned by players in parties that are allied by yours.
 				#(E) Every - all entities, even if not owned by anyone.
-				platesByOther = "N"
+				platesByOther = "E"
 				#When a player group is chosen, claimed chunk protection makes an exception for tripwires being triggered by players in the group.
 				#The built-in player groups are:
 				#
@@ -148,7 +148,7 @@
 				#(P) Party - players in the same party as you.
 				#(A) Allies - players in parties that are allied by yours.
 				#(E) Every - all players.
-				tripwireByPlayers = "N"
+				tripwireByPlayers = "E"
 				#When a player group is chosen, claimed chunk protection makes an exception for tripwires being triggered by mobs owned by players in the group.
 				#The built-in player groups are:
 				#
@@ -172,7 +172,7 @@
 				#(P) Party - players in the same party as you.
 				#(A) Allies - players in parties that are allied by yours.
 				#(E) Every - all players.
-				entitiesByPlayers = "N"
+				entitiesByPlayers = "E"
 				#When a player group is chosen, claimed chunk protection makes an exception for mobs owned by any player in the group interacting with friendly (+ server configured) entities. Chunks directly next to the protected chunks are also partially protected when protection is based on the mob griefing rule check.
 				#The built-in player groups are:
 				#
@@ -180,7 +180,7 @@
 				#(P) Party - entities owned by players in the same party as you.
 				#(A) Allies - entities owned by players in parties that are allied by yours.
 				#(E) Every - all entities, even if not owned by anyone.
-				entitiesByMobs = "N"
+				entitiesByMobs = "E"
 				#When a player group is chosen, claimed chunk protection makes an exception for non-living entities (e.g. arrows, falling anvils, activated TNT) owned by any player in the group interacting with friendly (+ server configured) entities.
 				#The built-in player groups are:
 				#
@@ -199,11 +199,11 @@
 				#When enabled, claimed chunk protection makes an exception for village raids. The protection stops raiders from spawning inside the protected chunks, from entering them and from hurting protectable entities, even if entity protection is turned off.
 				raids = false
 				#When enabled, claimed chunk protection makes an exception for players interacting with players, including combat. Non-combat interaction can be allowed through an entity exception group (option Interact (Players) by default).
-				playersByPlayers = true
+				playersByPlayers = false
 				#When enabled, claimed chunk protection makes an exception for players being attacked by mobs.
-				playersByMobs = true
+				playersByMobs = false
 				#When enabled, claimed chunk protection makes an exception for players being attacked by non-living entities.
-				playersByOther = true
+				playersByOther = false
 				#When enabled, instead of always simply using the direct "Allow Players By Mobs/Other" option for entity attacks/iteractions coming from non-player entities, if the attacking entity (e.g. an arrow) has an owner (e.g. a player), then the entity protection option corresponding to the owner is used (e.g. "Allow Players By Players").
 				playersRedirect = true
 				#When a player group is chosen, claimed chunk protection makes an exception for lightning directly caused by players (e.g. with the trident) affecting blocks and entities. Chunks directly next to the protected chunks are also partially protected.
@@ -229,7 +229,7 @@
 				#(P) Party - players in the same party as you.
 				#(A) Allies - players in parties that are allied by yours.
 				#(E) Every - all players.
-				netherPortalsPlayers = "N"
+				netherPortalsPlayers = "E"
 				#When a player group is chosen, claimed chunk protection makes an exception for nether portal usage by mobs. Even after the exception is turned on, a recently stopped entity is still on a short cooldown. You must let it finish without constantly retrying to push it through the portal, which restarts the cooldown.
 				#The built-in player groups are:
 				#
@@ -237,7 +237,7 @@
 				#(P) Party - entities owned by players in the same party as you.
 				#(A) Allies - entities owned by players in parties that are allied by yours.
 				#(E) Every - all entities, even if not owned by anyone.
-				netherPortalsMobs = "N"
+				netherPortalsMobs = "E"
 				#When a player group is chosen, claimed chunk protection makes an exception for nether portal usage by non-living entities. Even after the exception is turned on, a recently stopped entity is still on a short cooldown. You must let it finish without constantly retrying to push it through the portal, which restarts the cooldown.
 				#The built-in player groups are:
 				#
@@ -245,7 +245,7 @@
 				#(P) Party - entities owned by players in the same party as you.
 				#(A) Allies - entities owned by players in parties that are allied by yours.
 				#(E) Every - all entities, even if not owned by anyone.
-				netherPortalsOther = "N"
+				netherPortalsOther = "E"
 				#When a player group is chosen, claimed chunk protection makes an exception for right-click held item use. On Fabric, allowed item use means being able to place blocks on blocks that you can interact with, e.g. exception blocks, even if block protection is enabled! Right-click item use can also break blocks, if that is the item's right-click mechanic. Some item use in a chunk might also be prevented by neighbor item use protection in neighbor chunks.
 				#The built-in player groups are:
 				#
@@ -253,7 +253,7 @@
 				#(P) Party - players in the same party as you.
 				#(A) Allies - players in parties that are allied by yours.
 				#(E) Every - all players.
-				itemUse = "N"
+				itemUse = "E"
 				#When a player group is chosen, claimed chunk protection makes an exception for item tossing by players in the group.
 				#Dying can be used to circumvent the protection, so it is recommended to enable keepInventory or use a gravestone mod.
 				#The built-in player groups are:

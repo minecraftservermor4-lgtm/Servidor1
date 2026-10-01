@@ -37260,7 +37260,8 @@
       "woodworkingtable": "2026-09-19 14:20:38 +0000",
       "stonecutter": "2026-09-20 23:28:39 +0000",
       "fletchingtable": "2026-09-19 14:33:54 +0000",
-      "grindstone": "2026-09-19 14:21:16 +0000"
+      "grindstone": "2026-09-19 14:21:16 +0000",
+      "composter": "2026-09-29 00:26:48 +0000"
     },
     "done": false
   },
@@ -37273,7 +37274,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2026-09-19 14:49:19 +0000",
-      "bread": "2026-09-19 00:27:28 +0000"
+      "bread": "2026-09-19 00:27:28 +0000",
+      "beetroot": "2026-09-29 00:46:59 +0000",
+      "carrot": "2026-09-29 20:07:08 +0000"
     },
     "done": false
   },
@@ -37481,6 +37484,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2026-09-21 04:06:48 +0000",
+      "minecraft:enderman": "2026-09-29 01:04:13 +0000",
       "minecraft:spider": "2026-09-22 00:04:19 +0000",
       "minecraft:zombie": "2026-09-21 03:22:26 +0000"
     },
@@ -37544,6 +37548,42 @@
   "fangs_n_claws:progression/skin_of_beast": {
     "criteria": {
       "code": "2026-09-25 23:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2026-09-28 01:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2026-09-29 01:07:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2026-09-29 02:28:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-09-29 02:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-09-29 02:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2026-09-30 01:50:26 +0000"
     },
     "done": true
   },

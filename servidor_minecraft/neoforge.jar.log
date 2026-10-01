@@ -1,162 +1,111 @@
-JVM info: Ubuntu - 21.0.12 - 21.0.12+8-1-24.04-Ubuntu
+JVM info: Ubuntu - 21.0.12.1 - 21.0.12.1+1-1-24.04.4-Ubuntu
 java.net.preferIPv4Stack=true
-Current Time: 19/09/2026 15:10:14
-Host: maven.neoforged.net [109.61.91.197, 109.61.91.195, 109.61.91.230]
-Host: libraries.minecraft.net [150.171.109.66]
-Host: launchermeta.mojang.com [150.171.109.113]
-Host: piston-meta.mojang.com [150.171.109.118]
-Host: sessionserver.mojang.com [150.171.109.116]
-Found java version 21.0.12
+Current Time: 28/09/2026 00:34:11
+Host: maven.neoforged.net [109.61.91.195, 109.61.91.230, 109.61.91.197]
+Host: libraries.minecraft.net [150.171.109.118]
+Host: launchermeta.mojang.com [150.171.109.116]
+Host: piston-meta.mojang.com [150.171.109.113]
+Host: sessionserver.mojang.com [150.171.109.117]
+Found java version 21.0.12.1
 Target Directory: .
 Following redirect: https://neoforged.net/mirrorlist.json
 Considering Minecraft server jar
-Downloading library from https://piston-meta.mojang.com/v1/packages/81396eb81dcfec06cf6fa1c6fa06e4ab0c15eb81/1.21.1.json
-	Download completed: Checksum validated.
-Downloading library from https://piston-data.mojang.com/v1/objects/59353fb40c36d304f2035d51e7d6e6baa98dc05c/server.jar
-	Download completed: Checksum validated.
 Downloading libraries
 Found 0 additional library directories
 Considering library net.neoforged.fancymodloader:earlydisplay:4.0.44
-Downloading library from https://maven.neoforged.net/releases/net/neoforged/fancymodloader/earlydisplay/4.0.44/earlydisplay-4.0.44.jar
-	Download completed: Checksum validated.
+File ./libraries/net/neoforged/fancymodloader/earlydisplay/4.0.44/earlydisplay-4.0.44.jar exists. Checksum valid.
 Considering library net.neoforged.fancymodloader:loader:4.0.44
-Downloading library from https://maven.neoforged.net/releases/net/neoforged/fancymodloader/loader/4.0.44/loader-4.0.44.jar
-	Download completed: Checksum validated.
+File ./libraries/net/neoforged/fancymodloader/loader/4.0.44/loader-4.0.44.jar exists. Checksum valid.
 Considering library net.neoforged.accesstransformers:at-modlauncher:10.0.1
-Downloading library from https://maven.neoforged.net/releases/net/neoforged/accesstransformers/at-modlauncher/10.0.1/at-modlauncher-10.0.1.jar
-	Download completed: Checksum validated.
+File ./libraries/net/neoforged/accesstransformers/at-modlauncher/10.0.1/at-modlauncher-10.0.1.jar exists. Checksum valid.
 Considering library net.neoforged:accesstransformers:10.0.1
-Downloading library from https://maven.neoforged.net/releases/net/neoforged/accesstransformers/10.0.1/accesstransformers-10.0.1.jar
-	Download completed: Checksum validated.
+File ./libraries/net/neoforged/accesstransformers/10.0.1/accesstransformers-10.0.1.jar exists. Checksum valid.
 Considering library net.neoforged:bus:8.0.5
-Downloading library from https://maven.neoforged.net/releases/net/neoforged/bus/8.0.5/bus-8.0.5.jar
-	Download completed: Checksum validated.
+File ./libraries/net/neoforged/bus/8.0.5/bus-8.0.5.jar exists. Checksum valid.
 Considering library net.neoforged:coremods:7.0.3
-Downloading library from https://maven.neoforged.net/releases/net/neoforged/coremods/7.0.3/coremods-7.0.3.jar
-	Download completed: Checksum validated.
+File ./libraries/net/neoforged/coremods/7.0.3/coremods-7.0.3.jar exists. Checksum valid.
 Considering library cpw.mods:modlauncher:11.0.5
-Downloading library from https://maven.neoforged.net/releases/cpw/mods/modlauncher/11.0.5/modlauncher-11.0.5.jar
-	Download completed: Checksum validated.
+File ./libraries/cpw/mods/modlauncher/11.0.5/modlauncher-11.0.5.jar exists. Checksum valid.
 Considering library net.neoforged:mergetool:2.0.0:api
-Downloading library from https://maven.neoforged.net/releases/net/neoforged/mergetool/2.0.0/mergetool-2.0.0-api.jar
-	Download completed: Checksum validated.
+File ./libraries/net/neoforged/mergetool/2.0.0/mergetool-2.0.0-api.jar exists. Checksum valid.
 Considering library com.electronwill.night-config:toml:3.8.3
-Downloading library from https://maven.neoforged.net/releases/com/electronwill/night-config/toml/3.8.3/toml-3.8.3.jar
-	Download completed: Checksum validated.
+File ./libraries/com/electronwill/night-config/toml/3.8.3/toml-3.8.3.jar exists. Checksum valid.
 Considering library com.electronwill.night-config:core:3.8.3
-Downloading library from https://maven.neoforged.net/releases/com/electronwill/night-config/core/3.8.3/core-3.8.3.jar
-	Download completed: Checksum validated.
+File ./libraries/com/electronwill/night-config/core/3.8.3/core-3.8.3.jar exists. Checksum valid.
 Considering library net.neoforged:JarJarSelector:0.4.1
-Downloading library from https://maven.neoforged.net/releases/net/neoforged/JarJarSelector/0.4.1/JarJarSelector-0.4.1.jar
-	Download completed: Checksum validated.
+File ./libraries/net/neoforged/JarJarSelector/0.4.1/JarJarSelector-0.4.1.jar exists. Checksum valid.
 Considering library net.neoforged:JarJarMetadata:0.4.1
-Downloading library from https://maven.neoforged.net/releases/net/neoforged/JarJarMetadata/0.4.1/JarJarMetadata-0.4.1.jar
-	Download completed: Checksum validated.
+File ./libraries/net/neoforged/JarJarMetadata/0.4.1/JarJarMetadata-0.4.1.jar exists. Checksum valid.
 Considering library org.apache.maven:maven-artifact:3.8.5
-Downloading library from https://maven.neoforged.net/releases/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar
-	Download completed: Checksum validated.
+File ./libraries/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar exists. Checksum valid.
 Considering library net.jodah:typetools:0.6.3
-Downloading library from https://maven.neoforged.net/releases/net/jodah/typetools/0.6.3/typetools-0.6.3.jar
-	Download completed: Checksum validated.
+File ./libraries/net/jodah/typetools/0.6.3/typetools-0.6.3.jar exists. Checksum valid.
 Considering library net.minecrell:terminalconsoleappender:1.3.0
-Downloading library from https://maven.neoforged.net/releases/net/minecrell/terminalconsoleappender/1.3.0/terminalconsoleappender-1.3.0.jar
-	Download completed: Checksum validated.
+File ./libraries/net/minecrell/terminalconsoleappender/1.3.0/terminalconsoleappender-1.3.0.jar exists. Checksum valid.
 Considering library net.fabricmc:sponge-mixin:0.15.2+mixin.0.8.7
-Downloading library from https://maven.neoforged.net/releases/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar
-	Download completed: Checksum validated.
+File ./libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar exists. Checksum valid.
 Considering library org.openjdk.nashorn:nashorn-core:15.4
-Downloading library from https://maven.neoforged.net/releases/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar
-	Download completed: Checksum validated.
+File ./libraries/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar exists. Checksum valid.
 Considering library org.apache.commons:commons-lang3:3.14.0
-Downloading library from https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar
-	Download completed: Checksum validated.
+File ./libraries/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar exists. Checksum valid.
 Considering library cpw.mods:bootstraplauncher:2.0.2
-Downloading library from https://maven.neoforged.net/releases/cpw/mods/bootstraplauncher/2.0.2/bootstraplauncher-2.0.2.jar
-	Download completed: Checksum validated.
+File ./libraries/cpw/mods/bootstraplauncher/2.0.2/bootstraplauncher-2.0.2.jar exists. Checksum valid.
 Considering library cpw.mods:securejarhandler:3.0.8
-Downloading library from https://maven.neoforged.net/releases/cpw/mods/securejarhandler/3.0.8/securejarhandler-3.0.8.jar
-	Download completed: Checksum validated.
+File ./libraries/cpw/mods/securejarhandler/3.0.8/securejarhandler-3.0.8.jar exists. Checksum valid.
 Considering library org.ow2.asm:asm-commons:9.10.1
-Downloading library from https://maven.neoforged.net/releases/org/ow2/asm/asm-commons/9.10.1/asm-commons-9.10.1.jar
-	Download completed: Checksum validated.
+File ./libraries/org/ow2/asm/asm-commons/9.10.1/asm-commons-9.10.1.jar exists. Checksum valid.
 Considering library org.ow2.asm:asm-util:9.10.1
-Downloading library from https://maven.neoforged.net/releases/org/ow2/asm/asm-util/9.10.1/asm-util-9.10.1.jar
-	Download completed: Checksum validated.
+File ./libraries/org/ow2/asm/asm-util/9.10.1/asm-util-9.10.1.jar exists. Checksum valid.
 Considering library org.ow2.asm:asm-analysis:9.10.1
-Downloading library from https://maven.neoforged.net/releases/org/ow2/asm/asm-analysis/9.10.1/asm-analysis-9.10.1.jar
-	Download completed: Checksum validated.
+File ./libraries/org/ow2/asm/asm-analysis/9.10.1/asm-analysis-9.10.1.jar exists. Checksum valid.
 Considering library org.ow2.asm:asm-tree:9.10.1
-Downloading library from https://maven.neoforged.net/releases/org/ow2/asm/asm-tree/9.10.1/asm-tree-9.10.1.jar
-	Download completed: Checksum validated.
+File ./libraries/org/ow2/asm/asm-tree/9.10.1/asm-tree-9.10.1.jar exists. Checksum valid.
 Considering library org.ow2.asm:asm:9.10.1
-Downloading library from https://maven.neoforged.net/releases/org/ow2/asm/asm/9.10.1/asm-9.10.1.jar
-	Download completed: Checksum validated.
+File ./libraries/org/ow2/asm/asm/9.10.1/asm-9.10.1.jar exists. Checksum valid.
 Considering library net.neoforged:JarJarFileSystems:0.4.1
-Downloading library from https://maven.neoforged.net/releases/net/neoforged/JarJarFileSystems/0.4.1/JarJarFileSystems-0.4.1.jar
-	Download completed: Checksum validated.
+File ./libraries/net/neoforged/JarJarFileSystems/0.4.1/JarJarFileSystems-0.4.1.jar exists. Checksum valid.
 Considering library net.sf.jopt-simple:jopt-simple:5.0.4
-Downloading library from https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
-	Download completed: Checksum validated.
+File ./libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar exists. Checksum valid.
 Considering library org.slf4j:slf4j-api:2.0.9
-Downloading library from https://libraries.minecraft.net/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar
-	Download completed: Checksum validated.
+File ./libraries/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar exists. Checksum valid.
 Considering library org.antlr:antlr4-runtime:4.13.1
-Downloading library from https://maven.neoforged.net/releases/org/antlr/antlr4-runtime/4.13.1/antlr4-runtime-4.13.1.jar
-	Download completed: Checksum validated.
+File ./libraries/org/antlr/antlr4-runtime/4.13.1/antlr4-runtime-4.13.1.jar exists. Checksum valid.
 Considering library com.mojang:logging:1.2.7
-Downloading library from https://libraries.minecraft.net/com/mojang/logging/1.2.7/logging-1.2.7.jar
-	Download completed: Checksum validated.
+File ./libraries/com/mojang/logging/1.2.7/logging-1.2.7.jar exists. Checksum valid.
 Considering library org.apache.logging.log4j:log4j-slf4j2-impl:2.22.1
-Downloading library from https://libraries.minecraft.net/org/apache/logging/log4j/log4j-slf4j2-impl/2.22.1/log4j-slf4j2-impl-2.22.1.jar
-	Download completed: Checksum validated.
+File ./libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.22.1/log4j-slf4j2-impl-2.22.1.jar exists. Checksum valid.
 Considering library org.apache.logging.log4j:log4j-core:2.22.1
-Downloading library from https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.22.1/log4j-core-2.22.1.jar
-	Download completed: Checksum validated.
+File ./libraries/org/apache/logging/log4j/log4j-core/2.22.1/log4j-core-2.22.1.jar exists. Checksum valid.
 Considering library org.apache.logging.log4j:log4j-api:2.22.1
-Downloading library from https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.22.1/log4j-api-2.22.1.jar
-	Download completed: Checksum validated.
+File ./libraries/org/apache/logging/log4j/log4j-api/2.22.1/log4j-api-2.22.1.jar exists. Checksum valid.
 Considering library org.jline:jline-reader:3.20.0
-Downloading library from https://maven.neoforged.net/releases/org/jline/jline-reader/3.20.0/jline-reader-3.20.0.jar
-	Download completed: Checksum validated.
+File ./libraries/org/jline/jline-reader/3.20.0/jline-reader-3.20.0.jar exists. Checksum valid.
 Considering library org.jline:jline-terminal:3.20.0
-Downloading library from https://maven.neoforged.net/releases/org/jline/jline-terminal/3.20.0/jline-terminal-3.20.0.jar
-	Download completed: Checksum validated.
+File ./libraries/org/jline/jline-terminal/3.20.0/jline-terminal-3.20.0.jar exists. Checksum valid.
 Considering library commons-io:commons-io:2.15.1
-Downloading library from https://libraries.minecraft.net/commons-io/commons-io/2.15.1/commons-io-2.15.1.jar
-	Download completed: Checksum validated.
+File ./libraries/commons-io/commons-io/2.15.1/commons-io-2.15.1.jar exists. Checksum valid.
 Considering library net.minecraftforge:srgutils:0.4.15
-Downloading library from https://maven.neoforged.net/releases/net/minecraftforge/srgutils/0.4.15/srgutils-0.4.15.jar
-	Download completed: Checksum validated.
+File ./libraries/net/minecraftforge/srgutils/0.4.15/srgutils-0.4.15.jar exists. Checksum valid.
 Considering library com.google.guava:guava:32.1.2-jre
-Downloading library from https://libraries.minecraft.net/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar
-	Download completed: Checksum validated.
+File ./libraries/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar exists. Checksum valid.
 Considering library com.google.guava:failureaccess:1.0.1
-Downloading library from https://libraries.minecraft.net/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
-	Download completed: Checksum validated.
+File ./libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar exists. Checksum valid.
 Considering library com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava
-Downloading library from https://libraries.minecraft.net/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
-	Download completed: Checksum validated.
+File ./libraries/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar exists. Checksum valid.
 Considering library com.google.code.findbugs:jsr305:3.0.2
-Downloading library from https://libraries.minecraft.net/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
-	Download completed: Checksum validated.
+File ./libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar exists. Checksum valid.
 Considering library org.checkerframework:checker-qual:3.33.0
-Downloading library from https://libraries.minecraft.net/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0.jar
-	Download completed: Checksum validated.
+File ./libraries/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0.jar exists. Checksum valid.
 Considering library com.google.errorprone:error_prone_annotations:2.18.0
-Downloading library from https://libraries.minecraft.net/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0.jar
-	Download completed: Checksum validated.
+File ./libraries/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0.jar exists. Checksum valid.
 Considering library com.google.j2objc:j2objc-annotations:2.8
-Downloading library from https://libraries.minecraft.net/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar
-	Download completed: Checksum validated.
+File ./libraries/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar exists. Checksum valid.
 Considering library com.google.code.gson:gson:2.10.1
-Downloading library from https://libraries.minecraft.net/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar
-	Download completed: Checksum validated.
+File ./libraries/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar exists. Checksum valid.
 Considering library org.codehaus.plexus:plexus-utils:3.3.0
-Downloading library from https://maven.neoforged.net/releases/org/codehaus/plexus/plexus-utils/3.3.0/plexus-utils-3.3.0.jar
-	Download completed: Checksum validated.
+File ./libraries/org/codehaus/plexus/plexus-utils/3.3.0/plexus-utils-3.3.0.jar exists. Checksum valid.
 Considering library com.machinezoo.noexception:noexception:1.7.1
-Downloading library from https://maven.neoforged.net/releases/com/machinezoo/noexception/noexception/1.7.1/noexception-1.7.1.jar
-	Download completed: Checksum validated.
+File ./libraries/com/machinezoo/noexception/noexception/1.7.1/noexception-1.7.1.jar exists. Checksum valid.
 Considering library net.neoforged.fancymodloader:earlydisplay:4.0.44
 File ./libraries/net/neoforged/fancymodloader/earlydisplay/4.0.44/earlydisplay-4.0.44.jar exists. Checksum valid.
 Considering library net.neoforged.fancymodloader:loader:4.0.44
@@ -252,75 +201,52 @@ File ./libraries/org/codehaus/plexus/plexus-utils/3.3.0/plexus-utils-3.3.0.jar e
 Considering library com.machinezoo.noexception:noexception:1.7.1
 File ./libraries/com/machinezoo/noexception/noexception/1.7.1/noexception-1.7.1.jar exists. Checksum valid.
 Considering library net.neoforged:neoform:1.21.1-20240808.144430@zip
-Downloading library from https://maven.neoforged.net/releases/net/neoforged/neoform/1.21.1-20240808.144430/neoform-1.21.1-20240808.144430.zip
-	Download completed: Checksum validated.
+File ./libraries/net/neoforged/neoform/1.21.1-20240808.144430/neoform-1.21.1-20240808.144430.zip exists. Checksum valid.
 Considering library net.neoforged.installertools:binarypatcher:2.1.2:fatjar
-Downloading library from https://maven.neoforged.net/releases/net/neoforged/installertools/binarypatcher/2.1.2/binarypatcher-2.1.2-fatjar.jar
-	Download completed: Checksum validated.
+File ./libraries/net/neoforged/installertools/binarypatcher/2.1.2/binarypatcher-2.1.2-fatjar.jar exists. Checksum valid.
 Considering library net.neoforged:AutoRenamingTool:2.0.3:all
-Downloading library from https://maven.neoforged.net/releases/net/neoforged/AutoRenamingTool/2.0.3/AutoRenamingTool-2.0.3-all.jar
-	Download completed: Checksum validated.
+File ./libraries/net/neoforged/AutoRenamingTool/2.0.3/AutoRenamingTool-2.0.3-all.jar exists. Checksum valid.
 Considering library net.neoforged.installertools:installertools:2.1.2
-Downloading library from https://maven.neoforged.net/releases/net/neoforged/installertools/installertools/2.1.2/installertools-2.1.2.jar
-	Download completed: Checksum validated.
+File ./libraries/net/neoforged/installertools/installertools/2.1.2/installertools-2.1.2.jar exists. Checksum valid.
 Considering library net.neoforged:srgutils:1.0.0
-Downloading library from https://maven.neoforged.net/releases/net/neoforged/srgutils/1.0.0/srgutils-1.0.0.jar
-	Download completed: Checksum validated.
+File ./libraries/net/neoforged/srgutils/1.0.0/srgutils-1.0.0.jar exists. Checksum valid.
 Considering library net.md-5:SpecialSource:1.11.0
-Downloading library from https://maven.neoforged.net/releases/net/md-5/SpecialSource/1.11.0/SpecialSource-1.11.0.jar
-	Download completed: Checksum validated.
+File ./libraries/net/md-5/SpecialSource/1.11.0/SpecialSource-1.11.0.jar exists. Checksum valid.
 Considering library com.google.code.gson:gson:2.8.9
-Downloading library from https://libraries.minecraft.net/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar
-	Download completed: Checksum validated.
+File ./libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar exists. Checksum valid.
 Considering library de.siegmar:fastcsv:2.0.0
-Downloading library from https://maven.neoforged.net/releases/de/siegmar/fastcsv/2.0.0/fastcsv-2.0.0.jar
-	Download completed: Checksum validated.
+File ./libraries/de/siegmar/fastcsv/2.0.0/fastcsv-2.0.0.jar exists. Checksum valid.
 Considering library org.ow2.asm:asm-commons:9.3
-Downloading library from https://maven.neoforged.net/releases/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar
-	Download completed: Checksum validated.
+File ./libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar exists. Checksum valid.
 Considering library net.neoforged.installertools:cli-utils:2.1.2
-Downloading library from https://maven.neoforged.net/releases/net/neoforged/installertools/cli-utils/2.1.2/cli-utils-2.1.2.jar
-	Download completed: Checksum validated.
+File ./libraries/net/neoforged/installertools/cli-utils/2.1.2/cli-utils-2.1.2.jar exists. Checksum valid.
 Considering library com.google.guava:guava:20.0
-Downloading library from https://maven.neoforged.net/releases/com/google/guava/guava/20.0/guava-20.0.jar
-	Download completed: Checksum validated.
+File ./libraries/com/google/guava/guava/20.0/guava-20.0.jar exists. Checksum valid.
 Considering library com.opencsv:opencsv:4.4
-Downloading library from https://maven.neoforged.net/releases/com/opencsv/opencsv/4.4/opencsv-4.4.jar
-	Download completed: Checksum validated.
+File ./libraries/com/opencsv/opencsv/4.4/opencsv-4.4.jar exists. Checksum valid.
 Considering library org.ow2.asm:asm-analysis:9.3
-Downloading library from https://maven.neoforged.net/releases/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar
-	Download completed: Checksum validated.
+File ./libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar exists. Checksum valid.
 Considering library org.ow2.asm:asm-tree:9.3
-Downloading library from https://maven.neoforged.net/releases/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar
-	Download completed: Checksum validated.
+File ./libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar exists. Checksum valid.
 Considering library org.ow2.asm:asm:9.3
-Downloading library from https://libraries.minecraft.net/org/ow2/asm/asm/9.3/asm-9.3.jar
-	Download completed: Checksum validated.
+File ./libraries/org/ow2/asm/asm/9.3/asm-9.3.jar exists. Checksum valid.
 Considering library org.apache.commons:commons-text:1.3
-Downloading library from https://maven.neoforged.net/releases/org/apache/commons/commons-text/1.3/commons-text-1.3.jar
-	Download completed: Checksum validated.
+File ./libraries/org/apache/commons/commons-text/1.3/commons-text-1.3.jar exists. Checksum valid.
 Considering library org.apache.commons:commons-lang3:3.8.1
-Downloading library from https://maven.neoforged.net/releases/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar
-	Download completed: Checksum validated.
+File ./libraries/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar exists. Checksum valid.
 Considering library commons-beanutils:commons-beanutils:1.9.3
-Downloading library from https://maven.neoforged.net/releases/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar
-	Download completed: Checksum validated.
+File ./libraries/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar exists. Checksum valid.
 Considering library org.apache.commons:commons-collections4:4.2
-Downloading library from https://maven.neoforged.net/releases/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.jar
-	Download completed: Checksum validated.
+File ./libraries/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.jar exists. Checksum valid.
 Considering library commons-logging:commons-logging:1.2
-Downloading library from https://libraries.minecraft.net/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
-	Download completed: Checksum validated.
+File ./libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar exists. Checksum valid.
 Considering library commons-collections:commons-collections:3.2.2
-Downloading library from https://maven.neoforged.net/releases/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar
-	Download completed: Checksum validated.
+File ./libraries/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar exists. Checksum valid.
 Considering library net.neoforged.installertools:jarsplitter:2.1.2
-Downloading library from https://maven.neoforged.net/releases/net/neoforged/installertools/jarsplitter/2.1.2/jarsplitter-2.1.2.jar
-	Download completed: Checksum validated.
+File ./libraries/net/neoforged/installertools/jarsplitter/2.1.2/jarsplitter-2.1.2.jar exists. Checksum valid.
 Considering library net.neoforged:neoforge:21.1.249:universal
-Downloading library from https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.249/neoforge-21.1.249-universal.jar
-	Download completed: Checksum validated.
-Created Temporary Directory: /tmp/neoforge_installer17069607765011114371
+File ./libraries/net/neoforged/neoforge/21.1.249/neoforge-21.1.249-universal.jar exists. Checksum valid.
+Created Temporary Directory: /tmp/neoforge_installer10483740871365256252
   Extracting: /data/server.lzma
 Building Processors
 ===============================================================================
@@ -392,26 +318,26 @@ Output:  /workspaces/Servidor1/servidor_minecraft/./libraries
 All:     false
 JarOnly: false
 Libs:    true
-Extracted: libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar
 File already exists, and hash verified
 File already exists, and hash verified
 File already exists, and hash verified
-Extracted: libraries/com/mojang/authlib/6.0.54/authlib-6.0.54.jar
-Extracted: libraries/com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar
-Extracted: libraries/com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar
 File already exists, and hash verified
 File already exists, and hash verified
-Extracted: libraries/io/netty/netty-buffer/4.1.97.Final/netty-buffer-4.1.97.Final.jar
-Extracted: libraries/io/netty/netty-codec/4.1.97.Final/netty-codec-4.1.97.Final.jar
-Extracted: libraries/io/netty/netty-common/4.1.97.Final/netty-common-4.1.97.Final.jar
-Extracted: libraries/io/netty/netty-handler/4.1.97.Final/netty-handler-4.1.97.Final.jar
-Extracted: libraries/io/netty/netty-resolver/4.1.97.Final/netty-resolver-4.1.97.Final.jar
-Extracted: libraries/io/netty/netty-transport/4.1.97.Final/netty-transport-4.1.97.Final.jar
-Extracted: libraries/io/netty/netty-transport-classes-epoll/4.1.97.Final/netty-transport-classes-epoll-4.1.97.Final.jar
-Extracted: libraries/io/netty/netty-transport-native-epoll/4.1.97.Final/netty-transport-native-epoll-4.1.97.Final-linux-x86_64.jar
-Extracted: libraries/io/netty/netty-transport-native-epoll/4.1.97.Final/netty-transport-native-epoll-4.1.97.Final-linux-aarch_64.jar
-Extracted: libraries/io/netty/netty-transport-native-unix-common/4.1.97.Final/netty-transport-native-unix-common-4.1.97.Final.jar
-Extracted: libraries/it/unimi/dsi/fastutil/8.5.12/fastutil-8.5.12.jar
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
 Extracted: libraries/net/java/dev/jna/jna/5.14.0/jna-5.14.0.jar
 Extracted: libraries/net/java/dev/jna/jna-platform/5.14.0/jna-platform-5.14.0.jar
 File already exists, and hash verified
@@ -419,8 +345,8 @@ File already exists, and hash verified
 File already exists, and hash verified
 File already exists, and hash verified
 File already exists, and hash verified
-Extracted: libraries/org/joml/joml/1.10.5/joml-1.10.5.jar
-Extracted: libraries/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar
+File already exists, and hash verified
+File already exists, and hash verified
 File already exists, and hash verified
 ===============================================================================
 Processor: net.neoforged.installertools:installertools -> BUNDLER_EXTRACT
@@ -453,7 +379,7 @@ Output:  /workspaces/Servidor1/servidor_minecraft/./libraries/net/minecraft/serv
 All:     false
 JarOnly: true
 Libs:    false
-Extracted: versions/1.21.1/server-1.21.1.jar
+File already exists, and hash verified
 ===============================================================================
 Processor: net.neoforged.installertools:installertools -> MCP_DATA
   MainClass: net.neoforged.installertools.ConsoleTool
@@ -570,6 +496,8 @@ Splitter:
   SRG:   /workspaces/Servidor1/servidor_minecraft/./libraries/net/neoforged/neoform/1.21.1-20240808.144430/neoform-1.21.1-20240808.144430-mappings-merged.txt
   InputSha: a8ae1f986e20cc91442b6b2b64d62bcd065618d7
   SrgSha:   e4f52c8fd55aa6aa2b4d0e2b36d4327b9991b2c5
+  Slim Cache Hit
+  Extra Cache Miss
 Splitting 12951 files:
 ===============================================================================
 Processor: net.neoforged:AutoRenamingTool
@@ -597,17 +525,17 @@ Processor: net.neoforged:AutoRenamingTool: Reading input jar
 Processor: net.neoforged:AutoRenamingTool: Processing entries
 Adding input to inheritance map
 Processing entries
+Can't Find Class: javax/annotation/ParametersAreNonnullByDefault
 Can't Find Class: com/mojang/serialization/codecs/RecordCodecBuilder$Instance
 Can't Find Class: com/mojang/serialization/codecs/RecordCodecBuilder
 Can't Find Class: com/mojang/datafixers/Products$P2
 Can't Find Class: com/mojang/datafixers/Products
-Can't Find Class: javax/annotation/ParametersAreNonnullByDefault
 Can't Find Class: com/mojang/serialization/Codec
 Can't Find Class: io/netty/buffer/ByteBuf
 Can't Find Class: com/google/common/collect/ImmutableList
-Can't Find Class: com/mojang/datafixers/Products$P4
 Can't Find Class: com/mojang/serialization/Keyable
 Can't Find Class: org/slf4j/Logger
+Can't Find Class: com/mojang/datafixers/Products$P4
 Can't Find Class: com/mojang/datafixers/kinds/App
 Can't Find Class: com/mojang/serialization/MapCodec
 Can't Find Class: com/mojang/serialization/codecs/PrimitiveCodec
@@ -624,50 +552,50 @@ Can't Find Class: org/apache/commons/lang3/mutable/MutableInt
 Can't Find Class: com/google/common/hash/HashCode
 Can't Find Class: com/google/common/hash/Hashing
 Can't Find Class: com/google/common/hash/HashFunction
-Can't Find Class: com/google/common/collect/ImmutableMap
-Can't Find Class: com/google/common/collect/ImmutableMap$Builder
 Can't Find Class: com/mojang/serialization/JsonOps
 Can't Find Class: com/mojang/serialization/DynamicOps
+Can't Find Class: com/google/common/collect/ImmutableMap
+Can't Find Class: com/google/common/collect/ImmutableMap$Builder
 Can't Find Class: com/mojang/serialization/DataResult
-Can't Find Class: com/google/common/collect/ImmutableSet
-Can't Find Class: com/google/common/collect/UnmodifiableIterator
 Can't Find Class: com/google/common/hash/HashingOutputStream
-Can't Find Class: com/mojang/datafixers/DataFixer
+Can't Find Class: com/google/common/collect/ImmutableSet
 Can't Find Class: com/mojang/logging/LogUtils
+Can't Find Class: com/google/common/collect/UnmodifiableIterator
 Can't Find Class: it/unimi/dsi/fastutil/objects/Object2IntOpenHashMap
+Can't Find Class: com/mojang/datafixers/DataFixer
+Can't Find Class: com/mojang/brigadier/exceptions/CommandSyntaxException
 Can't Find Class: com/google/common/collect/Lists
 Can't Find Class: org/apache/commons/io/IOUtils
-Can't Find Class: com/mojang/brigadier/exceptions/CommandSyntaxException
 Can't Find Class: com/mojang/brigadier/Message
 Can't Find Class: com/google/common/collect/BiMap
-Can't Find Class: com/google/common/base/Stopwatch
 Can't Find Class: joptsimple/OptionParser
-Can't Find Class: com/google/common/collect/Sets
 Can't Find Class: joptsimple/OptionSpecBuilder
 Can't Find Class: joptsimple/AbstractOptionSpec
+Can't Find Class: com/google/common/base/Stopwatch
 Can't Find Class: joptsimple/ArgumentAcceptingOptionSpec
 Can't Find Class: joptsimple/OptionSet
 Can't Find Class: joptsimple/OptionSpec
+Can't Find Class: com/google/common/collect/Sets
 Can't Find Class: com/google/common/collect/Streams
-Can't Find Class: com/mojang/serialization/DataResult$Error
-Can't Find Class: com/mojang/serialization/Encoder
 Can't Find Class: com/mojang/datafixers/util/Either
 Can't Find Class: com/mojang/brigadier/CommandDispatcher
 Can't Find Class: com/mojang/brigadier/tree/RootCommandNode
+Can't Find Class: com/mojang/brigadier/tree/CommandNode
+Can't Find Class: com/mojang/serialization/DataResult$Error
+Can't Find Class: com/mojang/serialization/Encoder
 Can't Find Class: it/unimi/dsi/fastutil/ints/Int2ObjectOpenHashMap
 Can't Find Class: it/unimi/dsi/fastutil/ints/Int2ObjectMap
-Can't Find Class: com/mojang/brigadier/tree/CommandNode
 Can't Find Class: com/google/common/collect/Sets$SetView
 Can't Find Class: it/unimi/dsi/fastutil/objects/Object2ObjectOpenHashMap
 Can't Find Class: com/google/common/collect/Multimap
-Can't Find Class: it/unimi/dsi/fastutil/ints/Int2ObjectFunction
 Can't Find Class: it/unimi/dsi/fastutil/ints/IntList
+Can't Find Class: it/unimi/dsi/fastutil/ints/Int2ObjectFunction
 Can't Find Class: com/google/common/collect/ImmutableSet$Builder
+Can't Find Class: com/google/common/collect/Interner
+Can't Find Class: it/unimi/dsi/fastutil/ints/IntArrayList
+Can't Find Class: com/google/common/collect/Interners
 Can't Find Class: com/google/gson/JsonParser
 Can't Find Class: com/mojang/serialization/Dynamic
-Can't Find Class: com/google/common/collect/Interner
-Can't Find Class: com/google/common/collect/Interners
-Can't Find Class: it/unimi/dsi/fastutil/ints/IntArrayList
 Can't Find Class: org/apache/commons/lang3/StringEscapeUtils
 Can't Find Class: it/unimi/dsi/fastutil/ints/IntStack
 Can't Find Class: javax/annotation/Nonnull
@@ -675,10 +603,10 @@ Can't Find Class: javax/annotation/meta/TypeQualifierDefault
 Can't Find Class: javax/annotation/concurrent/Immutable
 Can't Find Class: com/mojang/datafixers/DSL$TypeReference
 Can't Find Class: com/mojang/datafixers/DSL
+Can't Find Class: com/mojang/datafixers/types/Type
 Can't Find Class: com/mojang/brigadier/arguments/ArgumentType
 Can't Find Class: it/unimi/dsi/fastutil/objects/Reference2ObjectMap
 Can't Find Class: it/unimi/dsi/fastutil/objects/Reference2ObjectArrayMap
-Can't Find Class: com/mojang/datafixers/types/Type
 Can't Find Class: com/google/common/base/Objects
 Can't Find Class: it/unimi/dsi/fastutil/doubles/DoubleDoubleImmutablePair
 Can't Find Class: com/google/common/collect/Iterables
@@ -687,9 +615,9 @@ Can't Find Class: it/unimi/dsi/fastutil/objects/Object2IntMap$Entry
 Can't Find Class: it/unimi/dsi/fastutil/objects/Object2IntMap
 Can't Find Class: it/unimi/dsi/fastutil/objects/ObjectSet
 Can't Find Class: it/unimi/dsi/fastutil/objects/ObjectIterator
-Can't Find Class: org/jetbrains/annotations/Contract
 Can't Find Class: com/mojang/datafixers/Products$P3
 Can't Find Class: com/mojang/datafixers/util/Function3
+Can't Find Class: org/jetbrains/annotations/Contract
 Can't Find Class: it/unimi/dsi/fastutil/objects/ObjectArrayList
 Can't Find Class: org/joml/Vector3f
 Can't Find Class: it/unimi/dsi/fastutil/objects/ObjectListIterator
@@ -700,8 +628,8 @@ Can't Find Class: com/mojang/serialization/codecs/UnboundedMapCodec
 Can't Find Class: org/apache/commons/lang3/tuple/Pair
 Can't Find Class: com/mojang/authlib/GameProfile
 Can't Find Class: it/unimi/dsi/fastutil/ints/Int2IntFunction
-Can't Find Class: it/unimi/dsi/fastutil/ints/IntOpenHashSet
 Can't Find Class: com/google/common/base/MoreObjects
+Can't Find Class: it/unimi/dsi/fastutil/ints/IntOpenHashSet
 Can't Find Class: it/unimi/dsi/fastutil/ints/IntSet
 Can't Find Class: it/unimi/dsi/fastutil/objects/Object2DoubleMap
 Can't Find Class: it/unimi/dsi/fastutil/objects/Object2DoubleArrayMap
@@ -721,8 +649,8 @@ Can't Find Class: com/google/common/base/Predicate
 Can't Find Class: it/unimi/dsi/fastutil/objects/Object2ObjectArrayMap
 Can't Find Class: it/unimi/dsi/fastutil/objects/ObjectOpenHashSet
 Can't Find Class: it/unimi/dsi/fastutil/longs/LongSet
-Can't Find Class: it/unimi/dsi/fastutil/shorts/Short2ObjectMap
 Can't Find Class: it/unimi/dsi/fastutil/longs/LongOpenHashSet
+Can't Find Class: it/unimi/dsi/fastutil/shorts/Short2ObjectMap
 Can't Find Class: it/unimi/dsi/fastutil/shorts/Short2ObjectOpenHashMap
 Can't Find Class: it/unimi/dsi/fastutil/shorts/Short2ObjectFunction
 Can't Find Class: it/unimi/dsi/fastutil/objects/ObjectCollection
@@ -737,15 +665,15 @@ Can't Find Class: org/apache/commons/lang3/mutable/MutableObject
 Can't Find Class: com/mojang/serialization/OptionalDynamic
 Can't Find Class: com/mojang/serialization/Decoder
 Can't Find Class: com/mojang/serialization/RecordBuilder
+Can't Find Class: com/mojang/datafixers/Products$P7
+Can't Find Class: com/mojang/datafixers/util/Function7
 Can't Find Class: com/mojang/datafixers/kinds/IdF$Mu
 Can't Find Class: com/mojang/datafixers/kinds/Applicative$Mu
-Can't Find Class: com/mojang/datafixers/kinds/IdF
 Can't Find Class: com/mojang/datafixers/kinds/K1
-Can't Find Class: com/mojang/datafixers/Products$P7
 Can't Find Class: com/mojang/datafixers/kinds/Const$Mu
-Can't Find Class: com/mojang/datafixers/util/Function7
-Can't Find Class: com/mojang/datafixers/kinds/Const
 Can't Find Class: com/mojang/datafixers/util/Unit
+Can't Find Class: com/mojang/datafixers/kinds/Const
+Can't Find Class: com/mojang/datafixers/kinds/IdF
 Can't Find Class: it/unimi/dsi/fastutil/longs/Long2LongMap$Entry
 Can't Find Class: it/unimi/dsi/fastutil/longs/Long2LongMap
 Can't Find Class: it/unimi/dsi/fastutil/longs/Long2LongOpenHashMap
@@ -764,20 +692,20 @@ Can't Find Class: it/unimi/dsi/fastutil/ints/Int2ObjectSortedMap
 Can't Find Class: com/google/common/base/Predicates
 Can't Find Class: com/google/common/collect/ImmutableBiMap$Builder
 Can't Find Class: com/google/common/collect/ImmutableBiMap
-Can't Find Class: it/unimi/dsi/fastutil/Hash$Strategy
-Can't Find Class: it/unimi/dsi/fastutil/Hash
 Can't Find Class: com/google/common/base/Supplier
 Can't Find Class: com/google/common/base/Suppliers
+Can't Find Class: it/unimi/dsi/fastutil/Hash$Strategy
+Can't Find Class: it/unimi/dsi/fastutil/Hash
 Can't Find Class: io/netty/handler/codec/DecoderException
 Can't Find Class: org/joml/Quaternionfc
 Can't Find Class: com/google/common/collect/ImmutableMultimap$Builder
 Can't Find Class: com/google/common/collect/ImmutableMultimap
 Can't Find Class: it/unimi/dsi/fastutil/chars/CharArraySet
+Can't Find Class: com/mojang/datafixers/Products$P6
+Can't Find Class: com/mojang/datafixers/util/Function6
 Can't Find Class: it/unimi/dsi/fastutil/chars/CharSet
 Can't Find Class: it/unimi/dsi/fastutil/ints/IntComparators
 Can't Find Class: it/unimi/dsi/fastutil/ints/IntComparator
-Can't Find Class: com/mojang/datafixers/Products$P6
-Can't Find Class: com/mojang/datafixers/util/Function6
 Can't Find Class: com/mojang/serialization/codecs/BaseMapCodec
 Can't Find Class: org/apache/commons/lang3/math/Fraction
 Can't Find Class: com/mojang/authlib/properties/PropertyMap
@@ -795,19 +723,19 @@ Can't Find Class: com/mojang/datafixers/util/Function11
 Can't Find Class: com/google/common/collect/HashMultimap
 Can't Find Class: it/unimi/dsi/fastutil/objects/ObjectArraySet
 Can't Find Class: io/netty/handler/codec/EncoderException
-Can't Find Class: it/unimi/dsi/fastutil/objects/ObjectLinkedOpenCustomHashSet
 Can't Find Class: com/google/common/collect/LinkedHashMultiset
 Can't Find Class: com/google/common/collect/Multiset
 Can't Find Class: com/google/common/collect/Multisets
 Can't Find Class: com/google/common/collect/ImmutableMultiset
-Can't Find Class: it/unimi/dsi/fastutil/ints/IntLists
+Can't Find Class: it/unimi/dsi/fastutil/objects/ObjectLinkedOpenCustomHashSet
 Can't Find Class: com/google/common/collect/HashBasedTable
 Can't Find Class: com/google/common/collect/Table
+Can't Find Class: it/unimi/dsi/fastutil/ints/IntLists
 Can't Find Class: com/google/common/base/Charsets
 Can't Find Class: com/google/common/primitives/Longs
 Can't Find Class: org/apache/commons/lang3/mutable/MutableDouble
-Can't Find Class: it/unimi/dsi/fastutil/objects/ObjectList
 Can't Find Class: it/unimi/dsi/fastutil/doubles/Double2DoubleFunction
+Can't Find Class: it/unimi/dsi/fastutil/objects/ObjectList
 Can't Find Class: com/google/common/collect/AbstractIterator
 Can't Find Class: it/unimi/dsi/fastutil/longs/Long2BooleanMap
 Can't Find Class: it/unimi/dsi/fastutil/longs/Long2BooleanFunction
@@ -815,8 +743,8 @@ Can't Find Class: it/unimi/dsi/fastutil/objects/Object2IntMaps
 Can't Find Class: it/unimi/dsi/fastutil/longs/Long2BooleanOpenHashMap
 Can't Find Class: it/unimi/dsi/fastutil/longs/LongArrayList
 Can't Find Class: it/unimi/dsi/fastutil/longs/LongList
-Can't Find Class: com/mojang/serialization/codecs/SimpleMapCodec
 Can't Find Class: com/google/common/base/MoreObjects$ToStringHelper
+Can't Find Class: com/mojang/serialization/codecs/SimpleMapCodec
 Can't Find Class: com/mojang/serialization/codecs/RecordCodecBuilder$Mu
 Can't Find Class: com/mojang/datafixers/Products$P9
 Can't Find Class: com/mojang/datafixers/util/Function9
@@ -837,15 +765,15 @@ Can't Find Class: com/mojang/datafixers/Products$P13
 Can't Find Class: com/mojang/datafixers/util/Function13
 Can't Find Class: com/google/common/primitives/Doubles
 Can't Find Class: it/unimi/dsi/fastutil/ints/Int2ObjectLinkedOpenHashMap
+Can't Find Class: com/google/common/collect/Queues
 Can't Find Class: it/unimi/dsi/fastutil/longs/LongSortedSet
 Can't Find Class: it/unimi/dsi/fastutil/longs/LongAVLTreeSet
 Can't Find Class: it/unimi/dsi/fastutil/longs/LongBidirectionalIterator
 Can't Find Class: it/unimi/dsi/fastutil/longs/LongIterator
 Can't Find Class: it/unimi/dsi/fastutil/ints/Int2ObjectMap$Entry
+Can't Find Class: it/unimi/dsi/fastutil/longs/LongConsumer
 Can't Find Class: it/unimi/dsi/fastutil/ints/Int2ObjectMaps
 Can't Find Class: it/unimi/dsi/fastutil/objects/ObjectIterable
-Can't Find Class: it/unimi/dsi/fastutil/longs/LongConsumer
-Can't Find Class: com/google/common/collect/Queues
 Can't Find Class: it/unimi/dsi/fastutil/longs/Long2ObjectMaps
 Can't Find Class: it/unimi/dsi/fastutil/objects/Object2FloatMap
 Can't Find Class: it/unimi/dsi/fastutil/objects/Object2FloatOpenHashMap
@@ -885,8 +813,8 @@ Can't Find Class: net/jpountz/lz4/LZ4BlockOutputStream
 Can't Find Class: net/jpountz/lz4/LZ4BlockInputStream
 Can't Find Class: it/unimi/dsi/fastutil/longs/Long2ObjectLinkedOpenHashMap
 Can't Find Class: it/unimi/dsi/fastutil/shorts/ShortList
-Can't Find Class: it/unimi/dsi/fastutil/shorts/ShortListIterator
 Can't Find Class: it/unimi/dsi/fastutil/shorts/ShortArrayList
+Can't Find Class: it/unimi/dsi/fastutil/shorts/ShortListIterator
 Can't Find Class: it/unimi/dsi/fastutil/ints/Int2IntMap$FastEntrySet
 Can't Find Class: it/unimi/dsi/fastutil/ints/Int2IntMap$Entry
 Can't Find Class: com/mojang/serialization/Codec$ResultFunction
@@ -895,8 +823,8 @@ Can't Find Class: com/google/common/base/Ticker
 Can't Find Class: com/google/common/base/Preconditions
 Can't Find Class: it/unimi/dsi/fastutil/shorts/Short2BooleanMap
 Can't Find Class: it/unimi/dsi/fastutil/shorts/Short2BooleanFunction
-Can't Find Class: it/unimi/dsi/fastutil/shorts/Short2BooleanOpenHashMap
 Can't Find Class: com/mojang/brigadier/arguments/IntegerArgumentType
+Can't Find Class: it/unimi/dsi/fastutil/shorts/Short2BooleanOpenHashMap
 Can't Find Class: com/mojang/brigadier/StringReader
 Can't Find Class: org/jetbrains/annotations/Nullable
 Can't Find Class: it/unimi/dsi/fastutil/objects/Object2BooleanMap
@@ -933,17 +861,17 @@ Can't Find Class: org/joml/Vector4f
 Can't Find Class: org/joml/Matrix4fc
 Can't Find Class: com/mojang/util/UndashedUuid
 Can't Find Class: io/netty/handler/codec/MessageToByteEncoder
-Can't Find Class: io/netty/handler/codec/MessageToMessageDecoder
 Can't Find Class: io/netty/channel/ChannelHandlerContext
-Can't Find Class: io/netty/channel/ChannelPipeline
-Can't Find Class: io/netty/channel/ChannelHandler
 Can't Find Class: io/netty/handler/codec/MessageToMessageEncoder
+Can't Find Class: io/netty/channel/ChannelPipeline
 Can't Find Class: io/netty/channel/ChannelInboundHandlerAdapter
+Can't Find Class: io/netty/channel/ChannelHandler
 Can't Find Class: io/netty/channel/ChannelOutboundHandlerAdapter
 Can't Find Class: io/netty/handler/codec/ByteToMessageDecoder
 Can't Find Class: io/netty/channel/ChannelInitializer
 Can't Find Class: io/netty/channel/Channel
 Can't Find Class: io/netty/channel/SimpleChannelInboundHandler
+Can't Find Class: io/netty/handler/codec/MessageToMessageDecoder
 Can't Find Class: io/netty/channel/ChannelFuture
 Can't Find Class: io/netty/channel/ChannelException
 Can't Find Class: io/netty/channel/ChannelConfig
@@ -961,8 +889,8 @@ Can't Find Class: it/unimi/dsi/fastutil/shorts/ShortSet
 Can't Find Class: it/unimi/dsi/fastutil/shorts/ShortIterator
 Can't Find Class: com/mojang/brigadier/suggestion/SuggestionProvider
 Can't Find Class: com/mojang/brigadier/tree/ArgumentCommandNode
-Can't Find Class: io/netty/buffer/Unpooled
 Can't Find Class: it/unimi/dsi/fastutil/ints/IntSets
+Can't Find Class: io/netty/buffer/Unpooled
 Can't Find Class: it/unimi/dsi/fastutil/ints/IntPredicate
 Can't Find Class: com/mojang/brigadier/Command
 Can't Find Class: com/mojang/brigadier/tree/LiteralCommandNode
@@ -970,16 +898,16 @@ Can't Find Class: com/mojang/brigadier/suggestion/Suggestions
 Can't Find Class: com/mojang/brigadier/context/StringRange
 Can't Find Class: com/mojang/brigadier/suggestion/Suggestion
 Can't Find Class: io/netty/channel/ChannelInboundHandler
-Can't Find Class: io/netty/channel/ChannelOutboundHandler
 Can't Find Class: io/netty/channel/nio/NioEventLoopGroup
 Can't Find Class: io/netty/channel/epoll/EpollEventLoopGroup
 Can't Find Class: io/netty/channel/DefaultEventLoopGroup
 Can't Find Class: io/netty/handler/timeout/TimeoutException
+Can't Find Class: org/apache/commons/lang3/ObjectUtils
 Can't Find Class: io/netty/channel/EventLoop
+Can't Find Class: io/netty/channel/ChannelOutboundHandler
 Can't Find Class: io/netty/util/concurrent/Future
 Can't Find Class: io/netty/util/concurrent/GenericFutureListener
 Can't Find Class: io/netty/channel/ChannelFutureListener
-Can't Find Class: org/apache/commons/lang3/ObjectUtils
 Can't Find Class: io/netty/channel/local/LocalChannel
 Can't Find Class: io/netty/channel/local/LocalServerChannel
 Can't Find Class: io/netty/channel/epoll/Epoll
@@ -999,38 +927,38 @@ Can't Find Class: com/mojang/brigadier/context/ParsedCommandNode
 Can't Find Class: com/mojang/brigadier/context/ParsedArgument
 Can't Find Class: io/netty/handler/codec/CorruptedFrameException
 Can't Find Class: io/netty/buffer/ByteBufUtil
+Can't Find Class: it/unimi/dsi/fastutil/longs/LongArraySet
 Can't Find Class: io/netty/buffer/ByteBufOutputStream
 Can't Find Class: io/netty/buffer/ByteBufInputStream
-Can't Find Class: it/unimi/dsi/fastutil/longs/LongArraySet
 Can't Find Class: com/mojang/brigadier/arguments/StringArgumentType
-Can't Find Class: io/netty/util/ByteProcessor
 Can't Find Class: com/mojang/brigadier/suggestion/SuggestionsBuilder
-Can't Find Class: io/netty/util/ReferenceCounted
 Can't Find Class: com/mojang/authlib/yggdrasil/ServicesKeySet
 Can't Find Class: com/mojang/authlib/GameProfileRepository
+Can't Find Class: io/netty/util/ByteProcessor
 Can't Find Class: com/google/common/collect/Streams$FunctionWithIndex
 Can't Find Class: org/apache/commons/lang3/exception/ExceptionUtils
-Can't Find Class: io/netty/channel/embedded/EmbeddedChannel
 Can't Find Class: it/unimi/dsi/fastutil/objects/Object2LongMap$Entry
+Can't Find Class: io/netty/util/ReferenceCounted
+Can't Find Class: io/netty/channel/embedded/EmbeddedChannel
 Can't Find Class: it/unimi/dsi/fastutil/objects/Object2LongMap
 Can't Find Class: it/unimi/dsi/fastutil/objects/Object2LongOpenHashMap
 Can't Find Class: io/netty/util/ResourceLeakDetector$Level
 Can't Find Class: io/netty/util/ResourceLeakDetector
 Can't Find Class: com/mojang/brigadier/exceptions/Dynamic2CommandExceptionType$Function
-Can't Find Class: com/mojang/brigadier/exceptions/Dynamic2CommandExceptionType
 Can't Find Class: it/unimi/dsi/fastutil/objects/Object2ObjectLinkedOpenHashMap
+Can't Find Class: com/mojang/brigadier/exceptions/Dynamic2CommandExceptionType
 Can't Find Class: com/mojang/brigadier/context/ContextChain
 Can't Find Class: com/mojang/brigadier/exceptions/Dynamic3CommandExceptionType$Function
 Can't Find Class: com/mojang/brigadier/exceptions/Dynamic3CommandExceptionType
 Can't Find Class: com/mojang/brigadier/RedirectModifier
-Can't Find Class: com/mojang/brigadier/context/ContextChain$Stage
 Can't Find Class: com/mojang/brigadier/ResultConsumer
+Can't Find Class: com/mojang/brigadier/context/ContextChain$Stage
 Can't Find Class: com/mojang/brigadier/arguments/FloatArgumentType
 Can't Find Class: com/mojang/brigadier/arguments/DoubleArgumentType
 Can't Find Class: com/mojang/brigadier/arguments/LongArgumentType
 Can't Find Class: com/mojang/brigadier/arguments/StringArgumentType$StringType
-Can't Find Class: com/google/common/base/Strings
 Can't Find Class: com/mojang/brigadier/AmbiguityConsumer
+Can't Find Class: com/google/common/base/Strings
 Can't Find Class: com/google/common/util/concurrent/MoreExecutors
 Can't Find Class: com/google/common/util/concurrent/ListeningExecutorService
 Can't Find Class: com/mojang/datafixers/schemas/Schema
@@ -1050,17 +978,17 @@ Can't Find Class: it/unimi/dsi/fastutil/longs/LongSets
 Can't Find Class: it/unimi/dsi/fastutil/longs/Long2ObjectMap$FastEntrySet
 Can't Find Class: com/mojang/logging/LogQueues
 Can't Find Class: it/unimi/dsi/fastutil/longs/Long2IntMaps
-Can't Find Class: com/google/common/net/InetAddresses
 Can't Find Class: it/unimi/dsi/fastutil/longs/Long2ObjectSortedMap$FastSortedEntrySet
 Can't Find Class: it/unimi/dsi/fastutil/longs/Long2ObjectSortedMap
+Can't Find Class: com/google/common/net/InetAddresses
 Can't Find Class: it/unimi/dsi/fastutil/objects/ObjectBidirectionalIterator
 Can't Find Class: it/unimi/dsi/fastutil/Stack
 Can't Find Class: io/netty/util/Timer
 Can't Find Class: io/netty/util/Timeout
 Can't Find Class: io/netty/util/TimerTask
 Can't Find Class: io/netty/util/HashedWheelTimer
-Can't Find Class: com/google/common/primitives/Floats
 Can't Find Class: com/mojang/authlib/exceptions/AuthenticationUnavailableException
+Can't Find Class: com/google/common/primitives/Floats
 Can't Find Class: io/netty/channel/epoll/EpollServerSocketChannel
 Can't Find Class: io/netty/channel/socket/nio/NioServerSocketChannel
 Can't Find Class: io/netty/bootstrap/ServerBootstrap
@@ -1081,9 +1009,9 @@ Can't Find Class: joptsimple/NonOptionArgumentSpec
 Can't Find Class: com/mojang/serialization/RecordBuilder$AbstractUniversalBuilder
 Can't Find Class: it/unimi/dsi/fastutil/objects/Object2LongMaps
 Can't Find Class: oshi/SystemInfo
+Can't Find Class: it/unimi/dsi/fastutil/ints/Int2DoubleMap
 Can't Find Class: oshi/hardware/CentralProcessor
 Can't Find Class: oshi/hardware/HardwareAbstractionLayer
-Can't Find Class: it/unimi/dsi/fastutil/ints/Int2DoubleMap
 Can't Find Class: it/unimi/dsi/fastutil/ints/Int2DoubleOpenHashMap
 Can't Find Class: com/google/common/math/Quantiles$ScaleAndIndexes
 Can't Find Class: com/google/common/math/Quantiles
@@ -1126,14 +1054,13 @@ Can't Find Class: it/unimi/dsi/fastutil/objects/ObjectArrays
 Can't Find Class: com/mojang/authlib/yggdrasil/ServicesKeyInfo
 Can't Find Class: it/unimi/dsi/fastutil/bytes/ByteArrays
 Can't Find Class: org/joml/Math
-Can't Find Class: org/joml/AxisAngle4f
 Can't Find Class: com/google/common/hash/Hasher
 Can't Find Class: com/google/common/hash/Funnels
 Can't Find Class: com/google/common/hash/PrimitiveSink
+Can't Find Class: org/joml/AxisAngle4f
 Can't Find Class: it/unimi/dsi/fastutil/objects/Reference2FloatMap
 Can't Find Class: it/unimi/dsi/fastutil/objects/Reference2FloatOpenHashMap
 Can't Find Class: it/unimi/dsi/fastutil/objects/Reference2FloatMaps
-Can't Find Class: com/google/common/primitives/UnsignedBytes
 Can't Find Class: com/sun/jna/platform/win32/Tlhelp32$MODULEENTRY32W
 Can't Find Class: com/sun/jna/platform/win32/Tlhelp32
 Can't Find Class: com/sun/jna/Platform
@@ -1141,6 +1068,7 @@ Can't Find Class: com/sun/jna/platform/win32/Kernel32
 Can't Find Class: com/sun/jna/platform/win32/Kernel32Util
 Can't Find Class: com/sun/jna/ptr/IntByReference
 Can't Find Class: com/sun/jna/platform/win32/Version
+Can't Find Class: com/google/common/primitives/UnsignedBytes
 Can't Find Class: com/sun/jna/Native
 Can't Find Class: com/sun/jna/platform/win32/Win32Exception
 Can't Find Class: com/sun/jna/Memory
@@ -1149,10 +1077,10 @@ Can't Find Class: com/sun/jna/ptr/PointerByReference
 Can't Find Class: com/mojang/serialization/ListBuilder$Builder
 Can't Find Class: com/mojang/serialization/ListBuilder
 Can't Find Class: com/mojang/serialization/RecordBuilder$MapBuilder
-Can't Find Class: com/google/common/collect/MapMaker
 Can't Find Class: oshi/hardware/CentralProcessor$ProcessorIdentifier
-Can't Find Class: oshi/hardware/PhysicalMemory
 Can't Find Class: org/apache/commons/io/FilenameUtils
+Can't Find Class: oshi/hardware/PhysicalMemory
+Can't Find Class: com/google/common/collect/MapMaker
 Can't Find Class: oshi/hardware/VirtualMemory
 Can't Find Class: oshi/hardware/GlobalMemory
 Can't Find Class: oshi/hardware/GraphicsCard
@@ -7573,7 +7501,7 @@ Processor: net.neoforged.installertools:binarypatcher
   Classpath:
     /workspaces/Servidor1/servidor_minecraft/./libraries/net/neoforged/installertools/binarypatcher/2.1.2/binarypatcher-2.1.2-fatjar.jar
     /workspaces/Servidor1/servidor_minecraft/./libraries/net/neoforged/installertools/binarypatcher/2.1.2/binarypatcher-2.1.2-fatjar.jar
-  Args: --clean, /workspaces/Servidor1/servidor_minecraft/./libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar, --output, /workspaces/Servidor1/servidor_minecraft/./libraries/net/neoforged/neoforge/21.1.249/neoforge-21.1.249-server.jar, --apply, /tmp/neoforge_installer17069607765011114371/data/server.lzma
+  Args: --clean, /workspaces/Servidor1/servidor_minecraft/./libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar, --output, /workspaces/Servidor1/servidor_minecraft/./libraries/net/neoforged/neoforge/21.1.249/neoforge-21.1.249-server.jar, --apply, /tmp/neoforge_installer10483740871365256252/data/server.lzma
 Applying: 
   Clean:     /workspaces/Servidor1/servidor_minecraft/./libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar
   Output:    /workspaces/Servidor1/servidor_minecraft/./libraries/net/neoforged/neoforge/21.1.249/neoforge-21.1.249-server.jar
@@ -7581,7 +7509,7 @@ Applying:
   Unpatched: false
   Pack200:   false
   Legacy:    false
-Loading patches file: /tmp/neoforge_installer17069607765011114371/data/server.lzma
+Loading patches file: /tmp/neoforge_installer10483740871365256252/data/server.lzma
 Processor: net.neoforged.installertools:binarypatcher: Loading patch files
 Processor: net.neoforged.installertools:binarypatcher: Patching input
 Processor: net.neoforged.installertools:binarypatcher: Adding new files

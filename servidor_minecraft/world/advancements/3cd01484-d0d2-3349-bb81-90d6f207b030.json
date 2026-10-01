@@ -37204,9 +37204,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2026-09-29 03:05:05 +0000",
       "minecraft:beach": "2026-09-22 01:25:53 +0000",
+      "minecraft:old_growth_pine_taiga": "2026-09-28 00:57:12 +0000",
+      "minecraft:forest": "2026-09-29 01:25:15 +0000",
+      "minecraft:ocean": "2026-09-29 01:16:39 +0000",
+      "minecraft:deep_ocean": "2026-09-29 02:00:25 +0000",
       "minecraft:river": "2026-09-20 22:50:06 +0000",
-      "minecraft:plains": "2026-09-20 22:48:07 +0000"
+      "minecraft:lukewarm_ocean": "2026-09-29 01:17:41 +0000",
+      "minecraft:birch_forest": "2026-09-29 01:24:37 +0000",
+      "minecraft:savanna": "2026-09-29 02:04:42 +0000",
+      "minecraft:plains": "2026-09-20 22:48:07 +0000",
+      "minecraft:deep_lukewarm_ocean": "2026-09-29 01:17:54 +0000"
     },
     "done": false
   },
@@ -37326,9 +37335,13 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "barrel": "2026-09-28 01:12:37 +0000",
       "smithingtable": "2026-09-21 01:52:31 +0000",
+      "blastfurnace": "2026-09-28 01:13:49 +0000",
       "lectern": "2026-09-21 02:32:51 +0000",
-      "fletchingtable": "2026-09-22 01:21:36 +0000"
+      "fletchingtable": "2026-09-22 01:21:36 +0000",
+      "grindstone": "2026-09-30 02:35:56 +0000",
+      "composter": "2026-09-30 03:01:27 +0000"
     },
     "done": false
   },
@@ -37352,8 +37365,11 @@
   },
   "fangs_n_claws:progression/extermination": {
     "criteria": {
+      "werewolf": "2026-09-29 01:20:10 +0000",
       "ghost": "2026-09-22 01:39:53 +0000",
+      "goblin": "2026-09-29 01:21:15 +0000",
       "evil_bat": "2026-09-22 02:13:57 +0000",
+      "silver_skeleton": "2026-09-29 01:25:08 +0000",
       "fire_ghost": "2026-09-22 01:59:41 +0000",
       "ogre": "2026-09-21 02:02:53 +0000",
       "scorpion": "2026-09-22 01:55:55 +0000"
@@ -37363,6 +37379,9 @@
   "fangs_n_claws:progression/bestiary": {
     "criteria": {
       "ghost": "2026-09-22 01:39:53 +0000",
+      "werewolf": "2026-09-29 01:20:10 +0000",
+      "goblin": "2026-09-29 01:21:15 +0000",
+      "silver_skeleton": "2026-09-29 01:25:08 +0000",
       "ogre": "2026-09-21 02:02:53 +0000",
       "scorpion": "2026-09-22 01:55:55 +0000"
     },
@@ -37418,11 +37437,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2026-09-28 01:16:52 +0000",
       "minecraft:skeleton": "2026-09-22 01:23:17 +0000",
       "minecraft:silverfish": "2026-09-22 02:34:58 +0000",
       "minecraft:spider": "2026-09-22 01:12:38 +0000",
       "minecraft:zombie": "2026-09-22 01:30:55 +0000",
       "minecraft:creeper": "2026-09-22 01:59:51 +0000",
+      "minecraft:drowned": "2026-09-29 03:05:49 +0000",
       "minecraft:husk": "2026-09-22 01:31:22 +0000",
       "minecraft:slime": "2026-09-22 01:37:13 +0000"
     },
@@ -37476,12 +37497,6 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2026-09-22 02:34:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2026-09-22 02:21:01 +0000"
@@ -37491,6 +37506,132 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2026-09-22 02:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2026-09-22 02:34:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/sus_sand": {
+    "criteria": {
+      "has_item_minecraft_sand_1": "2026-09-28 01:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2026-09-28 01:16:36 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2026-09-28 01:31:33 +0000"
+    },
+    "done": true
+  },
+  "fangs_n_claws:hunt/full_moon": {
+    "criteria": {
+      "werewolf": "2026-09-29 01:20:10 +0000"
+    },
+    "done": false
+  },
+  "fangs_n_claws:progression/monster_loot": {
+    "criteria": {
+      "code": "2026-09-29 01:20:11 +0000"
+    },
+    "done": true
+  },
+  "fangs_n_claws:forge/smooth_criminal": {
+    "criteria": {
+      "code": "2026-09-29 01:21:15 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2026-09-29 01:44:03 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2026-09-29 01:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2026-09-29 02:26:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-09-29 02:26:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-09-29 02:26:09 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/copper_silo": {
+    "criteria": {
+      "has_copper_ingot": "2026-09-29 03:05:50 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2026-09-29 03:05:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2026-09-30 01:09:17 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2026-09-30 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2026-09-30 01:26:09 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2026-09-30 01:34:16 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2026-09-30 01:34:20 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2026-09-30 01:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2026-09-30 02:12:20 +0000"
     },
     "done": true
   },
