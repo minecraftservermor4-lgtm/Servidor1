@@ -37205,25 +37205,33 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2026-09-22 01:38:14 +0000",
-      "minecraft:beach": "2026-09-22 02:21:56 +0000",
+      "minecraft:old_growth_pine_taiga": "2026-10-03 16:57:52 +0000",
       "minecraft:forest": "2026-09-29 01:18:03 +0000",
       "minecraft:taiga": "2026-09-29 02:52:24 +0000",
-      "minecraft:sparse_jungle": "2026-09-30 01:26:38 +0000",
       "minecraft:deep_ocean": "2026-09-29 01:22:16 +0000",
-      "minecraft:river": "2026-09-22 00:44:23 +0000",
       "minecraft:lush_caves": "2026-09-30 01:30:10 +0000",
-      "minecraft:snowy_taiga": "2026-09-29 02:56:22 +0000",
-      "minecraft:dripstone_caves": "2026-09-30 01:22:32 +0000",
-      "minecraft:old_growth_birch_forest": "2026-09-29 01:40:30 +0000",
+      "minecraft:ice_spikes": "2026-10-04 00:09:21 +0000",
       "minecraft:frozen_ocean": "2026-09-29 02:54:19 +0000",
       "minecraft:frozen_river": "2026-09-29 02:56:05 +0000",
-      "minecraft:deep_dark": "2026-09-30 01:35:49 +0000",
       "minecraft:ocean": "2026-09-29 01:19:18 +0000",
       "minecraft:jungle": "2026-09-30 01:29:13 +0000",
       "minecraft:cherry_grove": "2026-09-30 01:25:22 +0000",
+      "minecraft:birch_forest": "2026-10-04 00:03:15 +0000",
       "minecraft:windswept_hills": "2026-09-29 03:07:59 +0000",
+      "minecraft:old_growth_spruce_taiga": "2026-10-04 00:06:12 +0000",
       "minecraft:snowy_beach": "2026-09-29 02:56:06 +0000",
       "minecraft:bamboo_jungle": "2026-09-30 01:26:57 +0000",
+      "minecraft:beach": "2026-09-22 02:21:56 +0000",
+      "minecraft:sparse_jungle": "2026-09-30 01:26:38 +0000",
+      "minecraft:river": "2026-09-22 00:44:23 +0000",
+      "minecraft:lukewarm_ocean": "2026-10-04 00:03:44 +0000",
+      "minecraft:stony_shore": "2026-10-04 00:02:31 +0000",
+      "minecraft:snowy_plains": "2026-10-04 00:09:34 +0000",
+      "minecraft:snowy_taiga": "2026-09-29 02:56:22 +0000",
+      "minecraft:dripstone_caves": "2026-09-30 01:22:32 +0000",
+      "minecraft:old_growth_birch_forest": "2026-09-29 01:40:30 +0000",
+      "minecraft:deep_dark": "2026-09-30 01:35:49 +0000",
+      "minecraft:swamp": "2026-10-03 16:56:14 +0000",
       "minecraft:plains": "2026-09-22 00:29:45 +0000"
     },
     "done": false
@@ -37254,7 +37262,9 @@
   },
   "morevillagers:all_villages": {
     "criteria": {
-      "plains": "2026-09-22 00:33:27 +0000"
+      "taiga": "2026-10-04 00:07:26 +0000",
+      "plains": "2026-09-22 00:33:27 +0000",
+      "snowy": "2026-10-04 00:12:04 +0000"
     },
     "done": false
   },
@@ -37361,8 +37371,10 @@
       "apple": "2026-09-22 00:41:14 +0000",
       "golden_apple": "2026-09-22 02:17:06 +0000",
       "cooked_chicken": "2026-09-29 02:04:31 +0000",
+      "honey_bottle": "2026-10-01 03:40:11 +0000",
       "enchanted_golden_apple": "2026-09-30 01:49:25 +0000",
-      "baked_potato": "2026-09-22 00:55:03 +0000"
+      "baked_potato": "2026-09-22 00:55:03 +0000",
+      "golden_carrot": "2026-10-04 00:35:55 +0000"
     },
     "done": false
   },
@@ -37392,6 +37404,7 @@
       "blastfurnace": "2026-09-23 02:51:01 +0000",
       "loom": "2026-10-01 01:01:15 +0000",
       "lectern": "2026-09-22 03:15:23 +0000",
+      "stonecutter": "2026-10-01 03:36:22 +0000",
       "cauldron": "2026-09-22 00:56:59 +0000",
       "brewingstand": "2026-09-29 03:01:27 +0000",
       "grindstone": "2026-09-23 03:04:41 +0000",
@@ -37444,6 +37457,7 @@
       "minecraft:husk": "2026-09-22 01:52:19 +0000",
       "minecraft:ghast": "2026-09-30 01:22:04 +0000",
       "minecraft:hoglin": "2026-09-29 01:55:45 +0000",
+      "minecraft:cave_spider": "2026-10-03 17:01:53 +0000",
       "minecraft:piglin": "2026-09-29 01:50:31 +0000",
       "minecraft:enderman": "2026-09-29 02:04:06 +0000",
       "minecraft:magma_cube": "2026-09-29 21:04:34 +0000",
@@ -37451,6 +37465,7 @@
       "minecraft:piglin_brute": "2026-09-29 01:52:39 +0000",
       "minecraft:zombie": "2026-09-22 01:32:08 +0000",
       "minecraft:creeper": "2026-09-23 02:57:08 +0000",
+      "minecraft:drowned": "2026-10-04 00:49:29 +0000",
       "minecraft:slime": "2026-09-22 01:24:35 +0000"
     },
     "done": false
@@ -37475,7 +37490,8 @@
       "goblin": "2026-09-22 01:47:57 +0000",
       "silver_skeleton": "2026-09-29 01:13:18 +0000",
       "frost_scorpion": "2026-09-29 02:58:37 +0000",
-      "ogre": "2026-09-22 03:23:22 +0000"
+      "ogre": "2026-09-22 03:23:22 +0000",
+      "scorpion": "2026-10-04 00:26:45 +0000"
     },
     "done": false
   },
@@ -37487,7 +37503,8 @@
       "goblin": "2026-09-22 01:47:57 +0000",
       "silver_skeleton": "2026-09-29 01:13:18 +0000",
       "imp": "2026-09-29 01:56:04 +0000",
-      "ogre": "2026-09-22 03:23:22 +0000"
+      "ogre": "2026-09-22 03:23:22 +0000",
+      "scorpion": "2026-10-04 00:26:45 +0000"
     },
     "done": false
   },
@@ -37602,9 +37619,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2026-09-22 03:35:56 +0000"
+      "0": "2026-09-22 03:35:56 +0000",
+      "1": "2026-10-02 01:23:44 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
@@ -37646,6 +37664,7 @@
     "criteria": {
       "kill_kraken": "2026-09-29 01:35:33 +0000",
       "kill_knight": "2026-09-30 01:15:07 +0000",
+      "kill_yeti": "2026-10-04 00:15:27 +0000",
       "kill_dragon": "2026-09-23 03:13:05 +0000"
     },
     "done": false
@@ -37819,6 +37838,138 @@
   "nomansland:main/find_ancient_city": {
     "criteria": {
       "in_city": "2026-09-30 01:41:35 +0000"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2026-10-02 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2026-10-02 01:51:43 +0000"
+    },
+    "done": true
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2026-10-02 02:01:46 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2026-10-02 02:05:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/sus_sand": {
+    "criteria": {
+      "has_item_minecraft_sand_1": "2026-10-02 02:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2026-10-02 02:11:00 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2026-10-02 02:11:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/sus_gravel": {
+    "criteria": {
+      "has_item_minecraft_gravel_1": "2026-10-02 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2026-10-02 02:27:06 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2026-10-02 02:29:46 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2026-10-02 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2026-10-03 00:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2026-10-03 15:43:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2026-10-03 15:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2026-10-03 16:06:20 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/make_everything": {
+    "criteria": {
+      "farm_and_charm:farmer_salad": "2026-10-03 18:55:18 +0000"
+    },
+    "done": false
+  },
+  "create:windmill_maxed": {
+    "criteria": {
+      "0": "2026-10-03 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "block_factorys_bosses:kill_yeti": {
+    "criteria": {
+      "kill": "2026-10-04 00:15:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-10-04 00:47:06 +0000"
+    },
+    "done": true
+  },
+  "create:train_casing_00": {
+    "criteria": {
+      "0": "2026-10-04 01:35:31 +0000"
+    },
+    "done": true
+  },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2026-10-04 01:34:16 +0000"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2026-10-04 01:29:48 +0000"
     },
     "done": true
   },

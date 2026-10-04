@@ -1,256 +1,509 @@
-[01Oct2026 00:00:05.448] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
-[01Oct2026 00:00:05.487] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
-[01Oct2026 00:00:05.488] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
-[01Oct2026 00:00:05.488] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
-[01Oct2026 00:00:05.488] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
-[01Oct2026 00:00:05.488] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
-[01Oct2026 00:00:05.489] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
-[01Oct2026 00:00:05.489] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
-[01Oct2026 00:00:05.489] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
-[01Oct2026 00:00:05.489] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
-[01Oct2026 00:00:05.489] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
-[01Oct2026 00:00:11.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fideo lost connection: Disconnected
-[01Oct2026 00:00:11.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fideo left the game
-[01Oct2026 00:00:11.033] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 3cd01484-d0d2-3349-bb81-90d6f207b030
-[01Oct2026 00:00:31.862] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/34579, l='ServerLevel[v4]', x=469.69, y=-1.00, z=-1021.24]
-[01Oct2026 00:01:45.261] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/34938, l='ServerLevel[v4]', x=81.43, y=-5.00, z=-529.49]
-[01Oct2026 00:04:31.062] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/36104, l='ServerLevel[v4]', x=460.42, y=-19.00, z=-1115.30]
-[01Oct2026 00:05:05.330] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
-[01Oct2026 00:05:05.363] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
-[01Oct2026 00:05:05.364] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
-[01Oct2026 00:05:05.364] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
-[01Oct2026 00:05:05.364] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
-[01Oct2026 00:05:05.364] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
-[01Oct2026 00:05:05.364] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
-[01Oct2026 00:05:05.365] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
-[01Oct2026 00:05:05.365] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
-[01Oct2026 00:05:05.365] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
-[01Oct2026 00:05:05.365] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
-[01Oct2026 00:05:11.161] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.75.138.29:60575] logged in with entity id 36457 at (86.73185016851413, 63.0, -585.4448104190337)
-[01Oct2026 00:05:11.162] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Beginning attempted authentication with player lol
-[01Oct2026 00:05:11.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
-[01Oct2026 00:05:11.180] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
-[01Oct2026 00:05:11.185] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 920c79d8-a1ca-3c23-8b42-dadfe7a301f4
-[01Oct2026 00:05:30.862] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/36590, l='ServerLevel[v4]', x=425.73, y=-26.00, z=-1079.94]
-[01Oct2026 00:05:39.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> metete al ds viejo viagrero
-[01Oct2026 00:08:25.212] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/37815, l='ServerLevel[v4]', x=401.18, y=22.00, z=-1065.07]
-[01Oct2026 00:09:24.262] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/38081, l='ServerLevel[v4]', x=434.44, y=-40.00, z=-1104.50]
-[01Oct2026 00:09:24.263] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/38082, l='ServerLevel[v4]', x=434.39, y=-40.00, z=-1103.68]
-[01Oct2026 00:10:05.451] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
-[01Oct2026 00:10:05.498] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
-[01Oct2026 00:10:05.499] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
-[01Oct2026 00:10:05.499] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
-[01Oct2026 00:10:05.499] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
-[01Oct2026 00:10:05.501] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
-[01Oct2026 00:10:05.501] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
-[01Oct2026 00:10:05.501] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
-[01Oct2026 00:10:05.502] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
-[01Oct2026 00:10:05.502] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
-[01Oct2026 00:10:05.502] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
-[01Oct2026 00:11:48.612] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/38915, l='ServerLevel[v4]', x=382.01, y=27.00, z=-1080.36]
-[01Oct2026 00:12:19.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
-[01Oct2026 00:12:19.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
-[01Oct2026 00:12:19.180] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 920c79d8-a1ca-3c23-8b42-dadfe7a301f4
-[01Oct2026 00:15:05.326] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
-[01Oct2026 00:15:05.377] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
-[01Oct2026 00:15:05.378] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
-[01Oct2026 00:15:05.379] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
-[01Oct2026 00:15:05.380] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
-[01Oct2026 00:15:05.380] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
-[01Oct2026 00:15:05.381] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
-[01Oct2026 00:15:05.381] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
-[01Oct2026 00:15:05.381] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
-[01Oct2026 00:15:05.383] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
-[01Oct2026 00:15:05.383] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
-[01Oct2026 00:19:28.763] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/42671, l='ServerLevel[v4]', x=393.79, y=-26.00, z=-1205.22]
-[01Oct2026 00:20:05.309] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
-[01Oct2026 00:20:05.344] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
-[01Oct2026 00:20:05.346] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
-[01Oct2026 00:20:05.346] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
-[01Oct2026 00:20:05.346] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
-[01Oct2026 00:20:05.346] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
-[01Oct2026 00:20:05.346] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
-[01Oct2026 00:20:05.347] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
-[01Oct2026 00:20:05.348] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
-[01Oct2026 00:20:05.348] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
-[01Oct2026 00:20:05.349] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
-[01Oct2026 00:22:30.914] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/44490, l='ServerLevel[v4]', x=463.55, y=-16.00, z=-1101.92]
-[01Oct2026 00:22:35.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.75.138.29:42249] logged in with entity id 44520 at (99.93176670984698, 68.0, -587.49074407048)
-[01Oct2026 00:22:35.643] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Beginning attempted authentication with player lol
-[01Oct2026 00:22:35.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
-[01Oct2026 00:22:35.662] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
-[01Oct2026 00:22:35.667] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 920c79d8-a1ca-3c23-8b42-dadfe7a301f4
-[01Oct2026 00:24:42.830] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luquita23 lost connection: Disconnected
-[01Oct2026 00:24:42.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luquita23 left the game
-[01Oct2026 00:24:42.832] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5f29c626-724c-346e-93a1-78481142204f
-[01Oct2026 00:25:05.308] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
-[01Oct2026 00:25:05.335] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
-[01Oct2026 00:25:05.336] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
-[01Oct2026 00:25:05.336] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
-[01Oct2026 00:25:05.336] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
-[01Oct2026 00:25:05.336] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
-[01Oct2026 00:25:05.336] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
-[01Oct2026 00:25:05.336] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
-[01Oct2026 00:25:05.337] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
-[01Oct2026 00:25:05.337] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
-[01Oct2026 00:25:05.338] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
-[01Oct2026 00:30:05.316] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
-[01Oct2026 00:30:05.348] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
-[01Oct2026 00:30:05.348] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
-[01Oct2026 00:30:05.348] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
-[01Oct2026 00:30:05.348] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
-[01Oct2026 00:30:05.348] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
-[01Oct2026 00:30:05.348] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
-[01Oct2026 00:30:05.350] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
-[01Oct2026 00:30:05.350] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
-[01Oct2026 00:30:05.351] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
-[01Oct2026 00:30:05.351] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
-[01Oct2026 00:30:33.714] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/51116, l='ServerLevel[v4]', x=108.59, y=13.00, z=-600.90]
-[01Oct2026 00:30:33.714] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/51117, l='ServerLevel[v4]', x=108.40, y=13.00, z=-602.47]
-[01Oct2026 00:31:37.211] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/54192, l='ServerLevel[v4]', x=105.51, y=0.00, z=-501.62]
-[01Oct2026 00:33:26.562] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/56365, l='ServerLevel[v4]', x=-76.64, y=72.00, z=-452.92]
-[01Oct2026 00:35:05.316] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
-[01Oct2026 00:35:05.348] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
-[01Oct2026 00:35:05.351] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
-[01Oct2026 00:35:05.351] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
-[01Oct2026 00:35:05.352] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
-[01Oct2026 00:35:05.352] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
-[01Oct2026 00:35:05.352] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
-[01Oct2026 00:35:05.352] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
-[01Oct2026 00:35:05.353] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
-[01Oct2026 00:35:05.353] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
-[01Oct2026 00:35:05.353] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
-[01Oct2026 00:38:53.660] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/60777, l='ServerLevel[v4]', x=110.10, y=13.00, z=-615.92]
-[01Oct2026 00:39:57.660] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/60916, l='ServerLevel[v4]', x=74.18, y=-20.00, z=-609.51]
-[01Oct2026 00:40:05.324] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
-[01Oct2026 00:40:05.358] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
-[01Oct2026 00:40:05.360] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
-[01Oct2026 00:40:05.360] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
-[01Oct2026 00:40:05.360] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
-[01Oct2026 00:40:05.360] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
-[01Oct2026 00:40:05.360] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
-[01Oct2026 00:40:05.361] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
-[01Oct2026 00:40:05.361] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
-[01Oct2026 00:40:05.361] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
-[01Oct2026 00:40:05.361] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
-[01Oct2026 00:44:48.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morang lost connection: Disconnected
-[01Oct2026 00:44:48.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morang left the game
-[01Oct2026 00:44:48.872] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 090d0dea-028f-3ab0-a47a-a0c54a6705b3
-[01Oct2026 00:45:05.217] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
-[01Oct2026 00:45:05.241] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
-[01Oct2026 00:45:05.242] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
-[01Oct2026 00:45:05.242] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
-[01Oct2026 00:45:05.242] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
-[01Oct2026 00:45:05.242] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
-[01Oct2026 00:45:05.242] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
-[01Oct2026 00:45:05.243] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
-[01Oct2026 00:45:05.243] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
-[01Oct2026 00:45:05.243] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
-[01Oct2026 00:45:05.243] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
-[01Oct2026 00:48:45.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fideo[/127.47.109.247:40145] logged in with entity id 65914 at (97.30000001192093, 63.0, -590.6999999880791)
-[01Oct2026 00:48:45.741] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Beginning attempted authentication with player Fideo
-[01Oct2026 00:48:45.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fideo joined the game
-[01Oct2026 00:48:45.757] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
-[01Oct2026 00:48:45.762] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 3cd01484-d0d2-3349-bb81-90d6f207b030
-[01Oct2026 00:49:47.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luquita23[/127.203.62.190:34067] logged in with entity id 66033 at (470.1985375620189, 63.0, -1161.7311106441775)
-[01Oct2026 00:49:47.279] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Beginning attempted authentication with player Luquita23
-[01Oct2026 00:49:47.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luquita23 joined the game
-[01Oct2026 00:49:47.290] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
-[01Oct2026 00:49:47.294] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5f29c626-724c-346e-93a1-78481142204f
-[01Oct2026 00:50:05.454] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
-[01Oct2026 00:50:05.487] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
-[01Oct2026 00:50:05.487] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
-[01Oct2026 00:50:05.488] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
-[01Oct2026 00:50:05.488] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
-[01Oct2026 00:50:05.488] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
-[01Oct2026 00:50:05.488] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
-[01Oct2026 00:50:05.488] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
-[01Oct2026 00:50:05.488] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
-[01Oct2026 00:50:05.488] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
-[01Oct2026 00:50:05.489] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
-[01Oct2026 00:51:09.446] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EsProblematica[/127.115.88.63:50933] logged in with entity id 66734 at (177.09172325221198, 70.0, -472.40200162596693)
-[01Oct2026 00:51:09.446] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Beginning attempted authentication with player EsProblematica
-[01Oct2026 00:51:09.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EsProblematica joined the game
-[01Oct2026 00:51:09.469] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
-[01Oct2026 00:51:09.477] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cf2ee748-a1e9-3d14-9d1f-15a12238918d
-[01Oct2026 00:52:29.012] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/69238, l='ServerLevel[v4]', x=501.72, y=-17.00, z=-1172.81]
-[01Oct2026 00:53:11.112] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/69514, l='ServerLevel[v4]', x=441.19, y=-45.00, z=-1220.32]
-[01Oct2026 00:55:00.362] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/70770, l='ServerLevel[v4]', x=151.32, y=-11.00, z=-453.60]
-[01Oct2026 00:55:05.510] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
-[01Oct2026 00:55:05.545] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
-[01Oct2026 00:55:05.545] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
-[01Oct2026 00:55:05.546] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
-[01Oct2026 00:55:05.546] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
-[01Oct2026 00:55:05.546] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
-[01Oct2026 00:55:05.546] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
-[01Oct2026 00:55:05.546] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
-[01Oct2026 00:55:05.546] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
-[01Oct2026 00:55:05.546] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
-[01Oct2026 00:55:05.546] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
-[01Oct2026 00:55:16.613] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/71017, l='ServerLevel[v4]', x=420.65, y=-26.00, z=-1196.83]
-[01Oct2026 00:59:14.211] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/73694, l='ServerLevel[v4]', x=133.78, y=-9.00, z=-588.02]
-[01Oct2026 01:00:05.518] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
-[01Oct2026 01:00:05.564] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
-[01Oct2026 01:00:05.564] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
-[01Oct2026 01:00:05.564] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
-[01Oct2026 01:00:05.565] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
-[01Oct2026 01:00:05.565] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
-[01Oct2026 01:00:05.565] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
-[01Oct2026 01:00:05.565] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
-[01Oct2026 01:00:05.565] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
-[01Oct2026 01:00:05.565] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
-[01Oct2026 01:00:05.565] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
-[01Oct2026 01:01:17.364] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/75973, l='ServerLevel[v4]', x=386.43, y=-20.00, z=-1169.55]
-[01Oct2026 01:04:18.362] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/79353, l='ServerLevel[v4]', x=204.64, y=5.00, z=-619.22]
-[01Oct2026 01:05:05.518] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
-[01Oct2026 01:05:05.553] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
-[01Oct2026 01:05:05.554] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
-[01Oct2026 01:05:05.554] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
-[01Oct2026 01:05:05.554] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
-[01Oct2026 01:05:05.554] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
-[01Oct2026 01:05:05.554] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
-[01Oct2026 01:05:05.556] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
-[01Oct2026 01:05:05.556] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
-[01Oct2026 01:05:05.556] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
-[01Oct2026 01:05:05.561] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
-[01Oct2026 01:10:05.525] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
-[01Oct2026 01:10:05.569] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
-[01Oct2026 01:10:05.569] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
-[01Oct2026 01:10:05.569] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
-[01Oct2026 01:10:05.569] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
-[01Oct2026 01:10:05.569] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
-[01Oct2026 01:10:05.569] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
-[01Oct2026 01:10:05.570] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
-[01Oct2026 01:10:05.570] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
-[01Oct2026 01:10:05.570] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
-[01Oct2026 01:10:05.570] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
-[01Oct2026 01:10:38.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EsProblematica> lequeta
-[01Oct2026 01:10:44.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EsProblematica> libera a los aldeanos
-[01Oct2026 01:10:50.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EsProblematica> que estan todos quietos no puedan agarrar labubu
-[01Oct2026 01:14:01.712] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/89210, l='ServerLevel[v4]', x=500.80, y=20.00, z=-1151.35]
-[01Oct2026 01:15:05.646] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
-[01Oct2026 01:15:05.690] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
-[01Oct2026 01:15:05.690] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
-[01Oct2026 01:15:05.690] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
-[01Oct2026 01:15:05.690] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
-[01Oct2026 01:15:05.691] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
-[01Oct2026 01:15:05.691] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
-[01Oct2026 01:15:05.691] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
-[01Oct2026 01:15:05.691] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
-[01Oct2026 01:15:05.691] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
-[01Oct2026 01:15:05.691] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
-[01Oct2026 01:18:34.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luquita23 lost connection: Timed out
-[01Oct2026 01:18:34.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luquita23 left the game
-[01Oct2026 01:18:34.890] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5f29c626-724c-346e-93a1-78481142204f
-[01Oct2026 01:18:35.047] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[01Oct2026 01:20:05.450] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
-[01Oct2026 01:20:05.486] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
-[01Oct2026 01:20:05.486] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
-[01Oct2026 01:20:05.486] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
-[01Oct2026 01:20:05.486] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
-[01Oct2026 01:20:05.487] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
-[01Oct2026 01:20:05.487] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
-[01Oct2026 01:20:05.488] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
-[01Oct2026 01:20:05.488] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
-[01Oct2026 01:20:05.488] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
-[01Oct2026 01:20:05.494] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 00:00:09.047] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=126, y=66, z=-489} BlockPos{x=126, y=66, z=-487}
+[04Oct2026 00:00:23.070] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/106183, l='ServerLevel[v4]', x=-986.17, y=-17.00, z=15244.68]
+[04Oct2026 00:01:04.661] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/107411, l='ServerLevel[v4]', x=-1034.55, y=36.00, z=15291.56]
+[04Oct2026 00:01:06.075] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/107448, l='ServerLevel[v4]', x=-962.71, y=-11.00, z=15313.64]
+[04Oct2026 00:02:02.630] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 00:02:02.722] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 00:02:02.726] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 00:02:02.726] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 00:02:02.726] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 00:02:02.726] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 00:02:02.726] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 00:02:02.726] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 00:02:02.726] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 00:02:02.726] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 00:02:02.727] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 00:02:15.695] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fideo[/127.184.91.144:46097] logged in with entity id 108568 at (104.5601427253312, 68.0, -575.1642520149068)
+[04Oct2026 00:02:15.695] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Beginning attempted authentication with player Fideo
+[04Oct2026 00:02:15.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fideo joined the game
+[04Oct2026 00:02:15.707] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[04Oct2026 00:02:15.711] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 3cd01484-d0d2-3349-bb81-90d6f207b030
+[04Oct2026 00:02:43.770] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/109102, l='ServerLevel[v4]', x=-1171.96, y=8.00, z=15556.13]
+[04Oct2026 00:02:57.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol has made the advancement [Take Aim]
+[04Oct2026 00:04:51.821] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/113626, l='ServerLevel[v4]', x=-1941.33, y=-21.00, z=16039.34]
+[04Oct2026 00:05:01.423] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/113764, l='ServerLevel[v4]', x=-1951.35, y=4.00, z=16108.26]
+[04Oct2026 00:05:43.303] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1632, y=17, z=16171} but found not block entity block Block{minecraft:air} at location
+[04Oct2026 00:05:43.306] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1632, y=17, z=16171}
+[04Oct2026 00:06:24.797] [c2me-worker-0/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[04Oct2026 00:06:24.798] [c2me-worker-0/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[04Oct2026 00:06:24.798] [c2me-worker-0/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[04Oct2026 00:06:24.799] [c2me-worker-0/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[04Oct2026 00:06:24.801] [c2me-worker-0/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[04Oct2026 00:06:24.804] [c2me-worker-0/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[04Oct2026 00:06:24.804] [c2me-worker-0/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[04Oct2026 00:06:24.805] [c2me-worker-0/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[04Oct2026 00:07:02.778] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 00:07:02.841] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 00:07:02.841] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 00:07:02.841] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 00:07:02.842] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 00:07:02.842] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 00:07:02.842] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 00:07:02.842] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 00:07:02.842] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 00:07:02.842] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 00:07:02.842] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 00:07:55.309] [supplementaries-way-sign-locator/INFO] [Supplementaries/]: Searching for closest structure among [minecraft:village_plains, minecraft:village_snowy, minecraft:village_taiga, minecraft:village_desert, minecraft:village_savanna] from position BlockPos{x=-1163, y=70, z=16773}
+[04Oct2026 00:07:55.338] [supplementaries-way-sign-locator/INFO] [Supplementaries/]: 
+ Structure locator found 2 structures: 
+minecraft:village_taiga at BlockPos{x=-1360, y=0, z=16608}, dist = 266.33437630167083
+minecraft:village_snowy at BlockPos{x=-1984, y=0, z=16960}, dist = 844.9319499225959
+[04Oct2026 00:07:56.022] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/117801, l='ServerLevel[v4]', x=-1375.07, y=45.00, z=16656.21]
+[04Oct2026 00:08:23.373] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/118262, l='ServerLevel[v4]', x=-1488.49, y=3.00, z=16597.63]
+[04Oct2026 00:09:15.623] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/119631, l='ServerLevel[v4]', x=-1447.34, y=72.00, z=16880.74]
+[04Oct2026 00:09:21.880] [supplementaries-way-sign-locator/INFO] [Supplementaries/]: Searching for closest structure among [minecraft:village_plains, minecraft:village_savanna, minecraft:village_desert, minecraft:village_taiga, minecraft:village_snowy] from position BlockPos{x=-1509, y=70, z=17029}
+[04Oct2026 00:09:21.891] [supplementaries-way-sign-locator/INFO] [Supplementaries/]: 
+ Structure locator found 2 structures: 
+minecraft:village_snowy at BlockPos{x=-1984, y=0, z=16960}, dist = 485.06288252143145
+minecraft:village_snowy at BlockPos{x=-1344, y=0, z=17504}, dist = 507.6908508137605
+[04Oct2026 00:09:31.221] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/120081, l='ServerLevel[v4]', x=-22.47, y=4.00, z=-515.81]
+[04Oct2026 00:09:38.623] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/120275, l='ServerLevel[v4]', x=-1563.59, y=68.00, z=16932.96]
+[04Oct2026 00:09:38.624] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/120276, l='ServerLevel[v4]', x=-1561.99, y=68.00, z=16931.76]
+[04Oct2026 00:10:15.168] [supplementaries-way-sign-locator/INFO] [Supplementaries/]: Searching for closest structure among [minecraft:village_desert, minecraft:village_savanna, minecraft:village_taiga, minecraft:village_snowy, minecraft:village_plains] from position BlockPos{x=-1739, y=67, z=17387}
+[04Oct2026 00:10:15.201] [supplementaries-way-sign-locator/INFO] [Supplementaries/]: 
+ Structure locator found 2 structures: 
+minecraft:village_snowy at BlockPos{x=-1344, y=0, z=17504}, dist = 417.37632898859994
+minecraft:village_snowy at BlockPos{x=-1984, y=0, z=16960}, dist = 496.83296992047536
+[04Oct2026 00:10:18.822] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/121232, l='ServerLevel[v4]', x=-1543.48, y=70.00, z=17212.53]
+[04Oct2026 00:10:18.822] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/121233, l='ServerLevel[v4]', x=-1544.63, y=70.00, z=17211.85]
+[04Oct2026 00:10:23.820] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/121344, l='ServerLevel[v4]', x=-1584.92, y=85.00, z=17229.46]
+[04Oct2026 00:10:29.272] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/121449, l='ServerLevel[v4]', x=-1702.79, y=64.00, z=17371.31]
+[04Oct2026 00:10:53.648] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/121903, l='ServerLevel[v4]', x=-1610.94, y=64.00, z=17473.44]
+[04Oct2026 00:11:03.420] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/122116, l='ServerLevel[v4]', x=-1714.97, y=-43.00, z=17525.24]
+[04Oct2026 00:11:03.420] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Skeleton['Skeleton'/122117, l='ServerLevel[v4]', x=-1714.50, y=-43.00, z=17525.50]
+[04Oct2026 00:11:08.874] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/122247, l='ServerLevel[v4]', x=-1559.96, y=71.00, z=17577.74]
+[04Oct2026 00:11:24.145] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/122730, l='ServerLevel[v4]', x=-1447.36, y=88.00, z=17652.92]
+[04Oct2026 00:11:33.414] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Skeleton['Skeleton'/122985, l='ServerLevel[v4]', x=-1534.50, y=78.00, z=17587.50]
+[04Oct2026 00:11:38.337] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/123117, l='ServerLevel[v4]', x=-1452.00, y=79.00, z=17562.85]
+[04Oct2026 00:11:38.338] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/123118, l='ServerLevel[v4]', x=-1452.43, y=79.00, z=17562.50]
+[04Oct2026 00:11:42.394] [c2me-worker-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[04Oct2026 00:11:42.457] [c2me-worker-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[04Oct2026 00:11:59.324] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/123529, l='ServerLevel[v4]', x=-1313.34, y=40.00, z=17674.38]
+[04Oct2026 00:11:59.324] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/123530, l='ServerLevel[v4]', x=-1315.68, y=40.00, z=17673.97]
+[04Oct2026 00:12:01.122] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/123577, l='ServerLevel[v4]', x=-1268.25, y=70.00, z=17519.82]
+[04Oct2026 00:12:01.772] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/123591, l='ServerLevel[v4]', x=-1325.47, y=66.00, z=17497.99]
+[04Oct2026 00:12:02.903] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 00:12:03.053] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 00:12:03.054] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 00:12:03.054] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 00:12:03.054] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 00:12:03.054] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 00:12:03.054] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 00:12:03.054] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 00:12:03.054] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 00:12:03.054] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 00:12:03.055] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 00:12:03.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EsProblematica moved too quickly! 0.6542342536661181,-8.908414544863959,-4.720193307737645
+[04Oct2026 00:13:13.603] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager MaleVillagerEntity['Henry'/124113, l='ServerLevel[v4]', x=-1021.63, y=67.56, z=17687.72] died, message: 'Henry suffocated in a wall'
+[04Oct2026 00:13:13.607] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MaleVillagerEntity['Henry'/124113, l='ServerLevel[v4]', x=-1021.63, y=67.56, z=17687.72] died: Henry suffocated in a wall
+[04Oct2026 00:13:20.363] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/125088, l='ServerLevel[v4]', x=-948.12, y=68.00, z=17628.54]
+[04Oct2026 00:13:20.363] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/125089, l='ServerLevel[v4]', x=-947.25, y=68.00, z=17628.13]
+[04Oct2026 00:13:28.919] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/125293, l='ServerLevel[v4]', x=-1097.34, y=63.00, z=17621.95]
+[04Oct2026 00:13:28.919] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/125294, l='ServerLevel[v4]', x=-1097.47, y=63.00, z=17621.61]
+[04Oct2026 00:13:48.887] [supplementaries-way-sign-locator/INFO] [Supplementaries/]: Searching for closest structure among [minecraft:village_taiga, minecraft:village_desert, minecraft:village_snowy, minecraft:village_savanna, minecraft:village_plains] from position BlockPos{x=-805, y=71, z=17723}
+[04Oct2026 00:13:48.908] [supplementaries-way-sign-locator/INFO] [Supplementaries/]: 
+ Structure locator found 2 structures: 
+minecraft:village_snowy at BlockPos{x=-1024, y=0, z=17728}, dist = 230.2759214507674
+minecraft:village_snowy at BlockPos{x=-1344, y=0, z=17504}, dist = 586.108351757591
+[04Oct2026 00:13:49.979] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/125688, l='ServerLevel[v4]', x=-977.27, y=63.00, z=17832.27]
+[04Oct2026 00:13:49.980] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/125689, l='ServerLevel[v4]', x=-977.74, y=63.00, z=17832.43]
+[04Oct2026 00:13:56.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[04Oct2026 00:15:26.470] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Zombie['Zombie'/127603, l='ServerLevel[v4]', x=-851.50, y=63.00, z=17780.50]
+[04Oct2026 00:15:27.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EsProblematica has made the advancement [Lost in the Snow]
+[04Oct2026 00:15:58.193] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Skeleton['Skeleton'/127976, l='ServerLevel[v4]', x=47.50, y=81.00, z=66.50]
+[04Oct2026 00:16:31.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[04Oct2026 00:17:06.940] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 00:17:06.995] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 00:17:06.996] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 00:17:06.996] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 00:17:06.996] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 00:17:06.996] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 00:17:06.996] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 00:17:07.014] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 00:17:07.014] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 00:17:07.015] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 00:17:07.015] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 00:17:23.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[04Oct2026 00:18:00.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[04Oct2026 00:18:33.338] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Skeleton['Skeleton'/131546, l='ServerLevel[v4]', x=162.50, y=43.00, z=238.50]
+[04Oct2026 00:19:13.270] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/133032, l='ServerLevel[v4]', x=-595.14, y=25.00, z=18079.91]
+[04Oct2026 00:20:56.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lol> xaero-waypoint:salida:S:17:43:-65:2:false:0:Internal-the-nether-waypoints
+[04Oct2026 00:21:10.422] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/134949, l='ServerLevel[v4]', x=-919.35, y=-24.00, z=18058.38]
+[04Oct2026 00:22:10.890] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 00:22:10.956] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 00:22:10.956] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 00:22:10.957] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 00:22:10.957] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 00:22:10.957] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 00:22:10.957] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 00:22:10.974] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 00:22:10.974] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 00:22:10.975] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 00:22:10.975] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 00:22:22.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=171, y=63, z=-486} BlockPos{x=171, y=62, z=-486}
+[04Oct2026 00:22:22.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=171, y=63, z=-486} BlockPos{x=171, y=62, z=-486}
+[04Oct2026 00:23:24.470] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/137245, l='ServerLevel[v4]', x=22.53, y=63.00, z=-521.26]
+[04Oct2026 00:24:01.171] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Skeleton['Skeleton'/137660, l='ServerLevel[v4]', x=-1134.50, y=64.00, z=17925.50]
+[04Oct2026 00:24:06.748] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/137854, l='ServerLevel[v4]', x=-1163.63, y=69.00, z=18063.59]
+[04Oct2026 00:25:50.371] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/138958, l='ServerLevel[v4]', x=-1308.51, y=-12.00, z=17867.00]
+[04Oct2026 00:26:05.842] [Server thread/INFO] [com.simibubi.create.Create/]: RecipeTrie of depth 3 with 16 nodes built with 14 variants, 14 ingredients, and 6 recipes
+[04Oct2026 00:26:31.519] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/139472, l='ServerLevel[v4]', x=48.27, y=35.00, z=-535.38]
+[04Oct2026 00:26:31.520] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/139473, l='ServerLevel[v4]', x=49.15, y=35.00, z=-535.58]
+[04Oct2026 00:26:58.420] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/139678, l='ServerLevel[v4]', x=2.26, y=-4.00, z=-417.78]
+[04Oct2026 00:27:10.860] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 00:27:10.904] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 00:27:10.904] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 00:27:10.904] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 00:27:10.904] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 00:27:10.904] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 00:27:10.905] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 00:27:10.905] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 00:27:10.905] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 00:27:10.905] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 00:27:10.905] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 00:28:47.519] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/140086, l='ServerLevel[v4]', x=-12.20, y=-8.00, z=-575.68]
+[04Oct2026 00:32:10.803] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 00:32:10.848] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 00:32:10.848] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 00:32:10.848] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 00:32:10.849] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 00:32:10.849] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 00:32:10.849] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 00:32:10.849] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 00:32:10.849] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 00:32:10.849] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 00:32:10.849] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 00:35:41.643] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager FemaleVillagerEntity['Bella'/145967, l='ServerLevel[v4]', x=605.30, y=43.00, z=-175.70] died, message: 'Bella was slain by Zombie'
+[04Oct2026 00:35:41.645] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity FemaleVillagerEntity['Bella'/145967, l='ServerLevel[v4]', x=605.30, y=43.00, z=-175.70] died: Bella was slain by Zombie
+[04Oct2026 00:35:53.198] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager FemaleVillagerEntity['June'/94301, l='ServerLevel[v4]', x=239.51, y=65.00, z=-685.14] died, message: 'June was shot by Pillager'
+[04Oct2026 00:35:53.199] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity FemaleVillagerEntity['June'/94301, l='ServerLevel[v4]', x=239.51, y=65.00, z=-685.14] died: June was shot by Pillager
+[04Oct2026 00:36:08.620] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Zombie['Zombie'/147822, l='ServerLevel[v4]', x=519.50, y=67.00, z=-74.50]
+[04Oct2026 00:37:10.837] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 00:37:10.877] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 00:37:10.878] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 00:37:10.878] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 00:37:10.880] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 00:37:10.881] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 00:37:10.881] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 00:37:10.885] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 00:37:10.885] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 00:37:10.885] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 00:37:10.885] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 00:37:15.740] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 minecraft:air
+[04Oct2026 00:37:20.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morang was slain by lol
+[04Oct2026 00:37:33.720] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/148817, l='ServerLevel[v4]', x=543.99, y=11.00, z=-111.62]
+[04Oct2026 00:38:05.138] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager MaleVillagerEntity['Andrew'/145747, l='ServerLevel[v4]', x=551.70, y=58.00, z=-133.30] died, message: 'Andrew was slain by Zombie'
+[04Oct2026 00:38:05.139] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MaleVillagerEntity['Andrew'/145747, l='ServerLevel[v4]', x=551.70, y=58.00, z=-133.30] died: Andrew was slain by Zombie
+[04Oct2026 00:38:48.220] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/149951, l='ServerLevel[v4]', x=601.41, y=-1.00, z=-313.60]
+[04Oct2026 00:42:00.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Morang: Teleported EsProblematica to Morang]
+[04Oct2026 00:42:10.798] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 00:42:10.829] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 00:42:10.830] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 00:42:10.830] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 00:42:10.830] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 00:42:10.830] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 00:42:10.830] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 00:42:10.830] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 00:42:10.830] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 00:42:10.830] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 00:42:10.830] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 00:44:42.469] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/155245, l='ServerLevel[v4]', x=98.40, y=0.00, z=-495.58]
+[04Oct2026 00:47:06.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EsProblematica has made the advancement [Hot Stuff]
+[04Oct2026 00:47:10.807] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 00:47:10.834] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 00:47:10.834] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 00:47:10.835] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 00:47:10.835] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 00:47:10.835] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 00:47:10.835] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 00:47:10.851] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 00:47:10.851] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 00:47:10.851] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 00:47:10.852] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 00:48:48.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morang was slain by EsProblematica
+[04Oct2026 00:48:55.075] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager MaleVillagerEntity['Jack'/127945, l='ServerLevel[v4]', x=83.52, y=68.80, z=-543.70] died, message: 'Jack was slain by Drowned'
+[04Oct2026 00:48:55.076] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MaleVillagerEntity['Jack'/127945, l='ServerLevel[v4]', x=83.52, y=68.80, z=-543.70] died: Jack was slain by Drowned
+[04Oct2026 00:49:22.880] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager FemaleVillagerEntity['Lily'/88662, l='ServerLevel[v4]', x=103.48, y=68.00, z=-551.80] died, message: 'Lily was slain by Drowned'
+[04Oct2026 00:49:22.882] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity FemaleVillagerEntity['Lily'/88662, l='ServerLevel[v4]', x=103.48, y=68.00, z=-551.80] died: Lily was slain by Drowned
+[04Oct2026 00:52:10.794] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 00:52:10.823] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 00:52:10.823] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 00:52:10.823] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 00:52:10.823] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 00:52:10.823] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 00:52:10.823] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 00:52:10.831] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 00:52:10.831] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 00:52:10.831] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 00:52:10.831] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 00:53:01.430] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morang lost connection: Disconnected
+[04Oct2026 00:53:01.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morang left the game
+[04Oct2026 00:53:01.431] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 090d0dea-028f-3ab0-a47a-a0c54a6705b3
+[04Oct2026 00:55:03.280] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EsProblematica lost connection: Disconnected
+[04Oct2026 00:55:03.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EsProblematica left the game
+[04Oct2026 00:55:03.282] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cf2ee748-a1e9-3d14-9d1f-15a12238918d
+[04Oct2026 00:57:10.613] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 00:57:10.642] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 00:57:10.642] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 00:57:10.642] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 00:57:10.642] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 00:57:10.643] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 00:57:10.643] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 00:57:10.643] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 00:57:10.643] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 00:57:10.643] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 00:57:10.643] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 01:02:10.618] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 01:02:10.647] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 01:02:10.647] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 01:02:10.647] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 01:02:10.647] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 01:02:10.647] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 01:02:10.647] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 01:02:10.648] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 01:02:10.648] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 01:02:10.648] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 01:02:10.648] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 01:04:44.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
+[04Oct2026 01:04:44.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
+[04Oct2026 01:04:44.836] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 920c79d8-a1ca-3c23-8b42-dadfe7a301f4
+[04Oct2026 01:07:10.501] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 01:07:10.529] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 01:07:10.529] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 01:07:10.529] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 01:07:10.529] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 01:07:10.529] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 01:07:10.529] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 01:07:10.529] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 01:07:10.529] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 01:07:10.530] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 01:07:10.530] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 01:12:10.507] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 01:12:10.534] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 01:12:10.534] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 01:12:10.534] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 01:12:10.534] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 01:12:10.534] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 01:12:10.535] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 01:12:10.535] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 01:12:10.535] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 01:12:10.535] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 01:12:10.535] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 01:17:10.509] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 01:17:10.537] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 01:17:10.537] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 01:17:10.537] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 01:17:10.537] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 01:17:10.537] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 01:17:10.537] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 01:17:10.538] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 01:17:10.538] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 01:17:10.538] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 01:17:10.538] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 01:17:14.585] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lol[/127.251.153.142:59633] logged in with entity id 173287 at (-2.6933483665810356, 64.0, -443.15000000596046)
+[04Oct2026 01:17:14.585] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Beginning attempted authentication with player lol
+[04Oct2026 01:17:14.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol joined the game
+[04Oct2026 01:17:14.597] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[04Oct2026 01:17:14.601] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 920c79d8-a1ca-3c23-8b42-dadfe7a301f4
+[04Oct2026 01:18:28.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol has made the advancement [The Brass Age]
+[04Oct2026 01:20:36.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EsProblematica[/127.115.88.63:37213] logged in with entity id 174054 at (21.09674281164394, 63.0, -501.68488959923803)
+[04Oct2026 01:20:36.667] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Beginning attempted authentication with player EsProblematica
+[04Oct2026 01:20:36.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EsProblematica joined the game
+[04Oct2026 01:20:36.680] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[04Oct2026 01:20:36.683] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cf2ee748-a1e9-3d14-9d1f-15a12238918d
+[04Oct2026 01:22:10.704] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 01:22:10.736] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 01:22:10.736] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 01:22:10.736] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 01:22:10.736] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 01:22:10.736] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 01:22:10.737] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 01:22:10.737] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 01:22:10.737] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 01:22:10.737] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 01:22:10.737] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 01:27:10.718] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 01:27:10.748] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 01:27:10.748] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 01:27:10.751] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 01:27:10.751] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 01:27:10.751] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 01:27:10.751] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 01:27:10.751] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 01:27:10.751] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 01:27:10.751] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 01:27:10.751] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 01:30:55.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Morang[/127.249.197.17:53285] logged in with entity id 177605 at (110.59283761695039, 68.0, -537.8616454672596)
+[04Oct2026 01:30:55.390] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Beginning attempted authentication with player Morang
+[04Oct2026 01:30:55.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morang joined the game
+[04Oct2026 01:30:55.407] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[04Oct2026 01:30:55.410] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 090d0dea-028f-3ab0-a47a-a0c54a6705b3
+[04Oct2026 01:32:10.795] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 01:32:10.823] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 01:32:10.823] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 01:32:10.825] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 01:32:10.826] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 01:32:10.826] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 01:32:10.826] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 01:32:10.826] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 01:32:10.826] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 01:32:10.826] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 01:32:10.827] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 01:32:44.124] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 minecraft:air
+[04Oct2026 01:35:25.669] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/179064, l='ServerLevel[v4]', x=186.26, y=3.00, z=-565.70]
+[04Oct2026 01:36:06.569] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/179651, l='ServerLevel[v4]', x=90.91, y=34.00, z=-639.91]
+[04Oct2026 01:36:59.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=75, z=-582} BlockPos{x=123, y=74, z=-582}
+[04Oct2026 01:37:10.836] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 01:37:10.870] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 01:37:10.870] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 01:37:10.870] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 01:37:10.871] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 01:37:10.871] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 01:37:10.871] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 01:37:10.871] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 01:37:10.871] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 01:37:10.871] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 01:37:10.871] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 01:42:10.795] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 01:42:10.825] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 01:42:10.826] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 01:42:10.826] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 01:42:10.826] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 01:42:10.826] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 01:42:10.826] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 01:42:10.832] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 01:42:10.832] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 01:42:10.833] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 01:42:10.833] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 01:42:19.169] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/182910, l='ServerLevel[v4]', x=193.05, y=32.00, z=-486.18]
+[04Oct2026 01:43:04.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=210, y=70, z=-555} BlockPos{x=208, y=69, z=-555}
+[04Oct2026 01:43:04.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=70, z=-555} BlockPos{x=208, y=69, z=-555}
+[04Oct2026 01:43:04.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=70, z=-555} BlockPos{x=208, y=69, z=-555}
+[04Oct2026 01:43:04.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=70, z=-555} BlockPos{x=208, y=69, z=-555}
+[04Oct2026 01:44:07.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=63, z=-552} BlockPos{x=47, y=61, z=-552}
+[04Oct2026 01:44:07.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=63, z=-552} BlockPos{x=47, y=61, z=-552}
+[04Oct2026 01:45:37.282] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 minecraft:air
+[04Oct2026 01:47:10.807] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 01:47:10.839] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 01:47:10.839] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 01:47:10.839] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 01:47:10.839] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 01:47:10.840] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 01:47:10.840] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 01:47:10.840] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 01:47:10.840] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 01:47:10.840] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 01:47:10.840] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 01:47:28.637] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lol lost connection: Disconnected
+[04Oct2026 01:47:28.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol left the game
+[04Oct2026 01:47:28.638] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 920c79d8-a1ca-3c23-8b42-dadfe7a301f4
+[04Oct2026 01:49:50.695] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=123, y=74, z=-581} BlockPos{x=122, y=76, z=-585}
+[04Oct2026 01:51:53.019] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/186693, l='ServerLevel[v4]', x=75.09, y=-15.00, z=-556.60]
+[04Oct2026 01:52:10.695] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 01:52:10.724] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 01:52:10.724] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 01:52:10.724] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 01:52:10.724] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 01:52:10.724] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 01:52:10.725] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 01:52:10.725] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 01:52:10.725] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 01:52:10.725] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 01:52:10.725] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 01:52:27.684] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morang lost connection: Timed out
+[04Oct2026 01:52:27.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morang left the game
+[04Oct2026 01:52:27.685] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 090d0dea-028f-3ab0-a47a-a0c54a6705b3
+[04Oct2026 01:52:27.791] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Oct2026 01:52:57.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Morang[/127.249.197.17:47305] logged in with entity id 186861 at (165.72956654936004, 66.0, -562.7051580113523)
+[04Oct2026 01:52:57.285] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Beginning attempted authentication with player Morang
+[04Oct2026 01:52:57.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Morang joined the game
+[04Oct2026 01:52:57.299] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[04Oct2026 01:52:57.303] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 090d0dea-028f-3ab0-a47a-a0c54a6705b3
+[04Oct2026 01:53:34.969] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/187032, l='ServerLevel[v4]', x=243.51, y=-26.00, z=-551.32]
+[04Oct2026 01:55:02.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EsProblematica> maquina de offset
+[04Oct2026 01:56:57.125] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Jellyfish['Velia'/185750, l='ServerLevel[v4]', x=35.39, y=57.06, z=-566.75] died: Velia was slain by Luquitacesano
+[04Oct2026 01:56:57.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=77, z=-585} BlockPos{x=123, y=75, z=-582}
+[04Oct2026 01:56:57.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=77, z=-585} BlockPos{x=123, y=75, z=-582}
+[04Oct2026 01:57:10.683] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 01:57:10.712] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 01:57:10.712] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 01:57:10.712] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 01:57:10.712] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 01:57:10.713] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 01:57:10.713] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 01:57:10.713] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 01:57:10.713] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 01:57:10.713] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 01:57:10.713] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 01:59:34.869] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/187781, l='ServerLevel[v4]', x=-0.55, y=66.00, z=-579.76]
+[04Oct2026 02:02:10.690] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 02:02:10.718] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 02:02:10.718] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 02:02:10.718] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 02:02:10.718] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 02:02:10.718] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 02:02:10.719] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 02:02:10.719] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 02:02:10.719] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 02:02:10.719] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 02:02:10.719] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 02:03:22.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=156, y=67, z=-546} BlockPos{x=156, y=66, z=-545}
+[04Oct2026 02:03:23.001] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=156, y=67, z=-546} BlockPos{x=156, y=66, z=-545}
+[04Oct2026 02:03:23.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=156, y=67, z=-546} BlockPos{x=156, y=66, z=-545}
+[04Oct2026 02:03:23.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=156, y=67, z=-546} BlockPos{x=156, y=66, z=-545}
+[04Oct2026 02:06:17.456] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=68, z=-545} BlockPos{x=165, y=68, z=-545}
+[04Oct2026 02:06:17.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=68, z=-545} BlockPos{x=165, y=68, z=-545}
+[04Oct2026 02:06:17.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=68, z=-545} BlockPos{x=165, y=68, z=-545}
+[04Oct2026 02:06:17.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=68, z=-545} BlockPos{x=165, y=68, z=-545}
+[04Oct2026 02:06:17.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=68, z=-545} BlockPos{x=165, y=68, z=-545}
+[04Oct2026 02:06:17.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=68, z=-545} BlockPos{x=165, y=68, z=-545}
+[04Oct2026 02:06:41.969] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/190609, l='ServerLevel[v4]', x=208.21, y=40.00, z=-583.52]
+[04Oct2026 02:06:59.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=171, y=65, z=-550} BlockPos{x=170, y=65, z=-549}
+[04Oct2026 02:07:10.710] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 02:07:10.742] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 02:07:10.742] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 02:07:10.743] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 02:07:10.743] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 02:07:10.743] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 02:07:10.743] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 02:07:10.743] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 02:07:10.743] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 02:07:10.743] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 02:07:10.743] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 02:07:22.852] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=192, y=70, z=-554} BlockPos{x=192, y=70, z=-552}
+[04Oct2026 02:07:22.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=192, y=70, z=-554} BlockPos{x=192, y=70, z=-552}
+[04Oct2026 02:12:10.685] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 02:12:10.715] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 02:12:10.715] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 02:12:10.715] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 02:12:10.715] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 02:12:10.716] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 02:12:10.716] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 02:12:10.719] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 02:12:10.719] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 02:12:10.719] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 02:12:10.719] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 02:17:10.698] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 02:17:10.729] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 02:17:10.730] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 02:17:10.730] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 02:17:10.730] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 02:17:10.730] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 02:17:10.730] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 02:17:10.730] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 02:17:10.730] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 02:17:10.730] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 02:17:10.730] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury
+[04Oct2026 02:19:56.070] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/195158, l='ServerLevel[v4]', x=-108.24, y=23.00, z=-611.98]
+[04Oct2026 02:20:39.919] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BabyScorpionEntity['Baby Scorpion'/195370, l='ServerLevel[v4]', x=89.48, y=9.00, z=-656.70]
+[04Oct2026 02:22:10.678] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:overworld
+[04Oct2026 02:22:10.711] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:earth_orbit
+[04Oct2026 02:22:10.711] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:moon
+[04Oct2026 02:22:10.711] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars_orbit
+[04Oct2026 02:22:10.711] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_end
+[04Oct2026 02:22:10.711] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury_orbit
+[04Oct2026 02:22:10.711] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/minecraft:the_nether
+[04Oct2026 02:22:10.712] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus_orbit
+[04Oct2026 02:22:10.712] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mars
+[04Oct2026 02:22:10.712] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:venus
+[04Oct2026 02:22:10.712] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[v4]'/northstar:mercury

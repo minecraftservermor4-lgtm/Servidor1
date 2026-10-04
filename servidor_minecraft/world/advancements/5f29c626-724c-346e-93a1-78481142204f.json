@@ -37429,7 +37429,11 @@
     "criteria": {
       "minecraft:skeleton": "2026-09-24 00:04:01 +0000",
       "minecraft:silverfish": "2026-09-30 23:23:55 +0000",
+      "minecraft:spider": "2026-10-02 01:56:53 +0000",
       "minecraft:zombie": "2026-09-28 01:33:37 +0000",
+      "minecraft:creeper": "2026-10-02 00:36:09 +0000",
+      "minecraft:drowned": "2026-10-02 01:56:26 +0000",
+      "minecraft:zombie_villager": "2026-10-03 01:05:29 +0000",
       "minecraft:husk": "2026-09-24 00:03:26 +0000"
     },
     "done": false
@@ -37442,6 +37446,7 @@
   },
   "fangs_n_claws:progression/extermination": {
     "criteria": {
+      "goblin": "2026-10-02 01:55:08 +0000",
       "evil_bat": "2026-09-28 01:31:21 +0000"
     },
     "done": false
@@ -37449,6 +37454,84 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2026-09-30 23:09:49 +0000"
+    },
+    "done": true
+  },
+  "fangs_n_claws:progression/bestiary": {
+    "criteria": {
+      "goblin": "2026-10-02 01:55:08 +0000"
+    },
+    "done": false
+  },
+  "camping:main/get_a_bundle": {
+    "criteria": {
+      "bundle": "2026-10-02 01:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2026-10-02 01:55:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/acacia": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2026-10-03 01:21:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/spruce": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2026-10-03 01:21:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/cherry": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2026-10-03 01:21:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/warped": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2026-10-03 01:21:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/crimson": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2026-10-03 01:21:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/dark_oak": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2026-10-03 01:21:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/jungle": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2026-10-03 01:21:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/mangrove": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2026-10-03 01:21:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/birch": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2026-10-03 01:21:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/bamboo": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2026-10-03 01:21:31 +0000"
     },
     "done": true
   },

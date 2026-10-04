@@ -37243,6 +37243,7 @@
       "apple": "2026-09-21 01:53:56 +0000",
       "spider_eye": "2026-09-22 01:39:35 +0000",
       "bread": "2026-09-20 22:52:32 +0000",
+      "honey_bottle": "2026-10-04 01:33:03 +0000",
       "cooked_mutton": "2026-09-21 02:48:25 +0000",
       "cooked_beef": "2026-09-21 01:53:33 +0000",
       "rabbit_stew": "2026-09-22 02:21:01 +0000"
@@ -37339,6 +37340,7 @@
       "smithingtable": "2026-09-21 01:52:31 +0000",
       "blastfurnace": "2026-09-28 01:13:49 +0000",
       "lectern": "2026-09-21 02:32:51 +0000",
+      "stonecutter": "2026-10-04 01:24:06 +0000",
       "fletchingtable": "2026-09-22 01:21:36 +0000",
       "grindstone": "2026-09-30 02:35:56 +0000",
       "composter": "2026-09-30 03:01:27 +0000"
@@ -37367,8 +37369,11 @@
     "criteria": {
       "werewolf": "2026-09-29 01:20:10 +0000",
       "ghost": "2026-09-22 01:39:53 +0000",
+      "golem": "2026-10-04 00:37:17 +0000",
+      "nether_scorpion": "2026-10-04 00:15:55 +0000",
       "goblin": "2026-09-29 01:21:15 +0000",
       "evil_bat": "2026-09-22 02:13:57 +0000",
+      "imp": "2026-10-04 00:15:16 +0000",
       "silver_skeleton": "2026-09-29 01:25:08 +0000",
       "fire_ghost": "2026-09-22 01:59:41 +0000",
       "ogre": "2026-09-21 02:02:53 +0000",
@@ -37380,8 +37385,10 @@
     "criteria": {
       "ghost": "2026-09-22 01:39:53 +0000",
       "werewolf": "2026-09-29 01:20:10 +0000",
+      "golem": "2026-10-04 00:37:17 +0000",
       "goblin": "2026-09-29 01:21:15 +0000",
       "silver_skeleton": "2026-09-29 01:25:08 +0000",
+      "imp": "2026-10-04 00:15:16 +0000",
       "ogre": "2026-09-21 02:02:53 +0000",
       "scorpion": "2026-09-22 01:55:55 +0000"
     },
@@ -37439,13 +37446,15 @@
     "criteria": {
       "minecraft:cave_spider": "2026-09-28 01:16:52 +0000",
       "minecraft:skeleton": "2026-09-22 01:23:17 +0000",
+      "minecraft:piglin": "2026-10-04 00:20:05 +0000",
       "minecraft:silverfish": "2026-09-22 02:34:58 +0000",
       "minecraft:spider": "2026-09-22 01:12:38 +0000",
       "minecraft:zombie": "2026-09-22 01:30:55 +0000",
       "minecraft:creeper": "2026-09-22 01:59:51 +0000",
       "minecraft:drowned": "2026-09-29 03:05:49 +0000",
       "minecraft:husk": "2026-09-22 01:31:22 +0000",
-      "minecraft:slime": "2026-09-22 01:37:13 +0000"
+      "minecraft:slime": "2026-09-22 01:37:13 +0000",
+      "minecraft:hoglin": "2026-10-04 00:15:46 +0000"
     },
     "done": false
   },
@@ -37565,6 +37574,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2026-10-04 00:14:40 +0000",
       "minecraft:soul_sand_valley": "2026-09-29 02:26:09 +0000"
     },
     "done": false
@@ -37632,6 +37642,36 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2026-09-30 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "create:backtank": {
+    "criteria": {
+      "0": "2026-10-04 02:11:13 +0000"
+    },
+    "done": true
+  },
+  "fangs_n_claws:progression/recycler": {
+    "criteria": {
+      "code": "2026-10-04 00:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2026-10-04 01:04:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2026-10-04 00:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2026-10-04 00:16:53 +0000"
     },
     "done": true
   },
