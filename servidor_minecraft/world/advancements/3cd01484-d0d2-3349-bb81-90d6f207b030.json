@@ -37205,17 +37205,34 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2026-09-29 03:05:05 +0000",
-      "minecraft:beach": "2026-09-22 01:25:53 +0000",
+      "minecraft:snowy_slopes": "2026-10-07 02:32:15 +0000",
       "minecraft:old_growth_pine_taiga": "2026-09-28 00:57:12 +0000",
       "minecraft:forest": "2026-09-29 01:25:15 +0000",
-      "minecraft:ocean": "2026-09-29 01:16:39 +0000",
+      "minecraft:taiga": "2026-10-04 23:08:01 +0000",
       "minecraft:deep_ocean": "2026-09-29 02:00:25 +0000",
+      "minecraft:deep_cold_ocean": "2026-10-04 03:21:43 +0000",
+      "minecraft:frozen_ocean": "2026-10-04 23:08:19 +0000",
+      "minecraft:frozen_river": "2026-10-04 23:09:57 +0000",
+      "minecraft:deep_frozen_ocean": "2026-10-04 23:09:45 +0000",
+      "minecraft:ocean": "2026-09-29 01:16:39 +0000",
+      "minecraft:jungle": "2026-10-07 02:30:00 +0000",
+      "minecraft:birch_forest": "2026-09-29 01:24:37 +0000",
+      "minecraft:windswept_hills": "2026-10-04 23:09:30 +0000",
+      "minecraft:snowy_beach": "2026-10-04 23:10:00 +0000",
+      "minecraft:deep_lukewarm_ocean": "2026-09-29 01:17:54 +0000",
+      "minecraft:beach": "2026-09-22 01:25:53 +0000",
+      "minecraft:sparse_jungle": "2026-10-07 02:30:53 +0000",
       "minecraft:river": "2026-09-20 22:50:06 +0000",
       "minecraft:lukewarm_ocean": "2026-09-29 01:17:41 +0000",
-      "minecraft:birch_forest": "2026-09-29 01:24:37 +0000",
+      "minecraft:stony_shore": "2026-10-04 23:18:59 +0000",
+      "minecraft:snowy_plains": "2026-10-04 23:09:32 +0000",
+      "minecraft:snowy_taiga": "2026-10-04 23:09:49 +0000",
+      "minecraft:frozen_peaks": "2026-10-07 02:31:20 +0000",
+      "minecraft:old_growth_birch_forest": "2026-10-07 02:28:23 +0000",
+      "minecraft:swamp": "2026-10-04 03:21:00 +0000",
+      "minecraft:grove": "2026-10-07 02:31:18 +0000",
       "minecraft:savanna": "2026-09-29 02:04:42 +0000",
-      "minecraft:plains": "2026-09-20 22:48:07 +0000",
-      "minecraft:deep_lukewarm_ocean": "2026-09-29 01:17:54 +0000"
+      "minecraft:plains": "2026-09-20 22:48:07 +0000"
     },
     "done": false
   },
@@ -37245,6 +37262,7 @@
       "bread": "2026-09-20 22:52:32 +0000",
       "honey_bottle": "2026-10-04 01:33:03 +0000",
       "cooked_mutton": "2026-09-21 02:48:25 +0000",
+      "mushroom_stew": "2026-10-04 03:03:04 +0000",
       "cooked_beef": "2026-09-21 01:53:33 +0000",
       "rabbit_stew": "2026-09-22 02:21:01 +0000"
     },
@@ -37444,17 +37462,28 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:cave_spider": "2026-09-28 01:16:52 +0000",
+      "minecraft:blaze": "2026-10-07 01:45:08 +0000",
       "minecraft:skeleton": "2026-09-22 01:23:17 +0000",
+      "minecraft:phantom": "2026-10-07 02:11:51 +0000",
+      "minecraft:wither_skeleton": "2026-10-07 01:44:15 +0000",
+      "minecraft:husk": "2026-09-22 01:31:22 +0000",
+      "minecraft:bogged": "2026-10-04 22:13:48 +0000",
+      "minecraft:ghast": "2026-10-07 01:46:58 +0000",
+      "minecraft:ender_dragon": "2026-10-04 18:38:00 +0000",
+      "minecraft:hoglin": "2026-10-04 00:15:46 +0000",
+      "minecraft:shulker": "2026-10-04 18:47:02 +0000",
+      "minecraft:cave_spider": "2026-09-28 01:16:52 +0000",
       "minecraft:piglin": "2026-10-04 00:20:05 +0000",
+      "minecraft:guardian": "2026-10-04 03:42:55 +0000",
+      "minecraft:breeze": "2026-10-04 22:15:17 +0000",
       "minecraft:silverfish": "2026-09-22 02:34:58 +0000",
+      "minecraft:enderman": "2026-10-04 18:37:28 +0000",
+      "minecraft:magma_cube": "2026-10-07 01:56:44 +0000",
       "minecraft:spider": "2026-09-22 01:12:38 +0000",
       "minecraft:zombie": "2026-09-22 01:30:55 +0000",
       "minecraft:creeper": "2026-09-22 01:59:51 +0000",
       "minecraft:drowned": "2026-09-29 03:05:49 +0000",
-      "minecraft:husk": "2026-09-22 01:31:22 +0000",
-      "minecraft:slime": "2026-09-22 01:37:13 +0000",
-      "minecraft:hoglin": "2026-10-04 00:15:46 +0000"
+      "minecraft:slime": "2026-09-22 01:37:13 +0000"
     },
     "done": false
   },
@@ -37575,9 +37604,12 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2026-10-04 00:14:40 +0000",
-      "minecraft:soul_sand_valley": "2026-09-29 02:26:09 +0000"
+      "minecraft:soul_sand_valley": "2026-09-29 02:26:09 +0000",
+      "minecraft:nether_wastes": "2026-10-04 23:32:12 +0000",
+      "minecraft:basalt_deltas": "2026-10-04 23:36:26 +0000",
+      "minecraft:warped_forest": "2026-10-07 01:42:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -37645,9 +37677,15 @@
     },
     "done": true
   },
-  "create:backtank": {
+  "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
-      "0": "2026-10-04 02:11:13 +0000"
+      "has_quartz": "2026-10-04 00:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2026-10-04 00:16:53 +0000"
     },
     "done": true
   },
@@ -37663,15 +37701,153 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite": {
+  "create:backtank": {
     "criteria": {
-      "has_quartz": "2026-10-04 00:16:53 +0000"
+      "0": "2026-10-04 02:11:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite": {
+  "block_factorys_bosses:kill_kraken": {
     "criteria": {
-      "has_quartz": "2026-10-04 00:16:53 +0000"
+      "kill": "2026-10-04 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "block_factorys_bosses:kill_all_bosses": {
+    "criteria": {
+      "kill_kraken": "2026-10-04 03:35:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2026-10-04 18:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2026-10-04 18:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2026-10-04 18:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2026-10-04 18:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2026-10-04 18:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2026-10-04 18:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2026-10-04 18:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2026-10-04 18:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2026-10-04 18:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2026-10-04 22:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2026-10-04 22:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2026-10-04 22:18:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2026-10-04 22:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2026-10-04 22:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-10-04 23:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2026-10-04 23:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2026-10-07 01:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2026-10-07 01:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-10-07 01:45:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2026-10-07 01:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2026-10-07 01:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2026-10-07 02:30:34 +0000"
     },
     "done": true
   },

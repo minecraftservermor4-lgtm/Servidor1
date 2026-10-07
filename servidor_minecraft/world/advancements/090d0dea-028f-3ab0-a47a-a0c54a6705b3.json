@@ -37252,15 +37252,18 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "huntingpost": "2026-09-19 00:12:39 +0000",
+      "miningbench": "2026-10-04 04:34:04 +0000",
+      "oceanographytable": "2026-09-19 14:21:00 +0000",
+      "fletchingtable": "2026-09-19 14:33:54 +0000",
+      "brewingstand": "2026-10-05 18:00:45 +0000",
+      "grindstone": "2026-09-19 14:21:16 +0000",
       "gardeningtable": "2026-09-19 14:22:28 +0000",
       "smithingtable": "2026-09-19 16:32:28 +0000",
-      "huntingpost": "2026-09-19 00:12:39 +0000",
       "blastfurnace": "2026-09-19 00:40:10 +0000",
-      "oceanographytable": "2026-09-19 14:21:00 +0000",
+      "loom": "2026-10-05 23:36:29 +0000",
       "woodworkingtable": "2026-09-19 14:20:38 +0000",
       "stonecutter": "2026-09-20 23:28:39 +0000",
-      "fletchingtable": "2026-09-19 14:33:54 +0000",
-      "grindstone": "2026-09-19 14:21:16 +0000",
       "composter": "2026-09-29 00:26:48 +0000"
     },
     "done": false
@@ -37273,6 +37276,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2026-10-06 22:27:30 +0000",
       "apple": "2026-09-19 14:49:19 +0000",
       "bread": "2026-09-19 00:27:28 +0000",
       "cookie": "2026-10-04 00:46:58 +0000",
@@ -37572,7 +37576,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2026-10-01 02:48:15 +0000",
-      "minecraft:soul_sand_valley": "2026-09-29 02:28:02 +0000"
+      "minecraft:soul_sand_valley": "2026-09-29 02:28:02 +0000",
+      "minecraft:nether_wastes": "2026-10-04 22:30:43 +0000"
     },
     "done": false
   },
@@ -37627,6 +37632,36 @@
   "fangs_n_claws:progression/recycler": {
     "criteria": {
       "code": "2026-10-04 00:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2026-10-04 21:46:19 +0000"
+    },
+    "done": true
+  },
+  "create:millstone": {
+    "criteria": {
+      "0": "2026-10-05 22:48:48 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2026-10-07 01:48:25 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2026-10-07 01:48:33 +0000"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2026-10-07 01:44:59 +0000"
     },
     "done": true
   },

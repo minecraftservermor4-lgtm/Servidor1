@@ -37256,6 +37256,7 @@
       "cooked_chicken": "2026-09-29 02:07:19 +0000",
       "rotten_flesh": "2026-09-29 21:05:05 +0000",
       "melon_slice": "2026-09-29 01:43:32 +0000",
+      "pumpkin_pie": "2026-10-04 18:17:37 +0000",
       "golden_carrot": "2026-09-28 01:31:02 +0000"
     },
     "done": false
@@ -37820,15 +37821,69 @@
     },
     "done": true
   },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2026-10-04 01:18:28 +0000"
+    },
+    "done": true
+  },
   "create:funnel": {
     "criteria": {
       "0": "2026-10-04 01:46:54 +0000"
     },
     "done": true
   },
-  "create:brass_casing": {
+  "create:super_glue": {
     "criteria": {
-      "0": "2026-10-04 01:18:28 +0000"
+      "0": "2026-10-04 17:58:02 +0000"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2026-10-04 18:09:47 +0000"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2026-10-04 18:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2026-10-04 18:13:22 +0000"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2026-10-04 18:21:47 +0000"
+    },
+    "done": true
+  },
+  "create:millstone": {
+    "criteria": {
+      "0": "2026-10-04 18:46:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2026-10-04 22:00:57 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2026-10-04 22:26:59 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2026-10-04 22:27:30 +0000"
     },
     "done": true
   },

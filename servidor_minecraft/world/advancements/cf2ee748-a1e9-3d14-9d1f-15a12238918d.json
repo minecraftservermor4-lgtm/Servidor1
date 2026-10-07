@@ -37205,23 +37205,33 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2026-09-22 01:38:14 +0000",
+      "minecraft:snowy_slopes": "2026-10-04 22:41:33 +0000",
       "minecraft:old_growth_pine_taiga": "2026-10-03 16:57:52 +0000",
       "minecraft:forest": "2026-09-29 01:18:03 +0000",
       "minecraft:taiga": "2026-09-29 02:52:24 +0000",
       "minecraft:deep_ocean": "2026-09-29 01:22:16 +0000",
       "minecraft:lush_caves": "2026-09-30 01:30:10 +0000",
+      "minecraft:deep_cold_ocean": "2026-10-04 22:22:30 +0000",
       "minecraft:ice_spikes": "2026-10-04 00:09:21 +0000",
       "minecraft:frozen_ocean": "2026-09-29 02:54:19 +0000",
       "minecraft:frozen_river": "2026-09-29 02:56:05 +0000",
+      "minecraft:deep_frozen_ocean": "2026-10-04 22:26:43 +0000",
+      "minecraft:windswept_forest": "2026-10-05 02:05:23 +0000",
       "minecraft:ocean": "2026-09-29 01:19:18 +0000",
       "minecraft:jungle": "2026-09-30 01:29:13 +0000",
       "minecraft:cherry_grove": "2026-09-30 01:25:22 +0000",
+      "minecraft:sunflower_plains": "2026-10-04 23:11:27 +0000",
       "minecraft:birch_forest": "2026-10-04 00:03:15 +0000",
       "minecraft:windswept_hills": "2026-09-29 03:07:59 +0000",
       "minecraft:old_growth_spruce_taiga": "2026-10-04 00:06:12 +0000",
       "minecraft:snowy_beach": "2026-09-29 02:56:06 +0000",
       "minecraft:bamboo_jungle": "2026-09-30 01:26:57 +0000",
+      "minecraft:windswept_savanna": "2026-10-04 22:20:36 +0000",
+      "minecraft:warm_ocean": "2026-10-04 22:33:32 +0000",
+      "minecraft:deep_lukewarm_ocean": "2026-10-04 18:25:39 +0000",
+      "minecraft:flower_forest": "2026-10-04 23:11:29 +0000",
       "minecraft:beach": "2026-09-22 02:21:56 +0000",
+      "minecraft:dark_forest": "2026-10-05 02:05:10 +0000",
       "minecraft:sparse_jungle": "2026-09-30 01:26:38 +0000",
       "minecraft:river": "2026-09-22 00:44:23 +0000",
       "minecraft:lukewarm_ocean": "2026-10-04 00:03:44 +0000",
@@ -37229,10 +37239,15 @@
       "minecraft:snowy_plains": "2026-10-04 00:09:34 +0000",
       "minecraft:snowy_taiga": "2026-09-29 02:56:22 +0000",
       "minecraft:dripstone_caves": "2026-09-30 01:22:32 +0000",
+      "minecraft:frozen_peaks": "2026-10-04 22:41:35 +0000",
       "minecraft:old_growth_birch_forest": "2026-09-29 01:40:30 +0000",
       "minecraft:deep_dark": "2026-09-30 01:35:49 +0000",
       "minecraft:swamp": "2026-10-03 16:56:14 +0000",
-      "minecraft:plains": "2026-09-22 00:29:45 +0000"
+      "minecraft:grove": "2026-10-04 22:39:47 +0000",
+      "minecraft:meadow": "2026-10-04 22:40:47 +0000",
+      "minecraft:savanna": "2026-10-04 22:32:21 +0000",
+      "minecraft:plains": "2026-09-22 00:29:45 +0000",
+      "minecraft:jagged_peaks": "2026-10-04 22:39:49 +0000"
     },
     "done": false
   },
@@ -37399,15 +37414,18 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "barrel": "2026-09-22 03:11:05 +0000",
-      "smoker": "2026-09-22 01:01:02 +0000",
       "huntingpost": "2026-10-01 01:15:06 +0000",
+      "oceanographytable": "2026-10-05 21:09:22 +0000",
+      "brewingstand": "2026-09-29 03:01:27 +0000",
+      "grindstone": "2026-09-23 03:04:41 +0000",
+      "smoker": "2026-09-22 01:01:02 +0000",
+      "smithingtable": "2026-10-04 18:07:40 +0000",
       "blastfurnace": "2026-09-23 02:51:01 +0000",
       "loom": "2026-10-01 01:01:15 +0000",
       "lectern": "2026-09-22 03:15:23 +0000",
       "stonecutter": "2026-10-01 03:36:22 +0000",
       "cauldron": "2026-09-22 00:56:59 +0000",
-      "brewingstand": "2026-09-29 03:01:27 +0000",
-      "grindstone": "2026-09-23 03:04:41 +0000",
+      "purpuraltar": "2026-10-04 19:15:20 +0000",
       "composter": "2026-10-01 01:06:04 +0000"
     },
     "done": false
@@ -37451,22 +37469,30 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2026-09-30 01:17:24 +0000",
+      "minecraft:pillager": "2026-10-05 20:01:51 +0000",
       "minecraft:skeleton": "2026-09-22 01:48:01 +0000",
-      "minecraft:witch": "2026-09-29 01:07:15 +0000",
-      "minecraft:wither_skeleton": "2026-09-29 21:10:53 +0000",
-      "minecraft:husk": "2026-09-22 01:52:19 +0000",
+      "minecraft:ravager": "2026-10-04 22:37:03 +0000",
+      "minecraft:bogged": "2026-10-04 04:05:52 +0000",
       "minecraft:ghast": "2026-09-30 01:22:04 +0000",
       "minecraft:hoglin": "2026-09-29 01:55:45 +0000",
-      "minecraft:cave_spider": "2026-10-03 17:01:53 +0000",
-      "minecraft:piglin": "2026-09-29 01:50:31 +0000",
-      "minecraft:enderman": "2026-09-29 02:04:06 +0000",
+      "minecraft:breeze": "2026-10-04 04:06:56 +0000",
       "minecraft:magma_cube": "2026-09-29 21:04:34 +0000",
       "minecraft:spider": "2026-09-22 01:50:39 +0000",
       "minecraft:piglin_brute": "2026-09-29 01:52:39 +0000",
-      "minecraft:zombie": "2026-09-22 01:32:08 +0000",
       "minecraft:creeper": "2026-09-23 02:57:08 +0000",
+      "minecraft:wither": "2026-10-04 21:59:55 +0000",
+      "minecraft:slime": "2026-09-22 01:24:35 +0000",
+      "minecraft:phantom": "2026-10-05 02:05:57 +0000",
+      "minecraft:witch": "2026-09-29 01:07:15 +0000",
+      "minecraft:wither_skeleton": "2026-09-29 21:10:53 +0000",
+      "minecraft:husk": "2026-09-22 01:52:19 +0000",
+      "minecraft:shulker": "2026-10-04 18:47:08 +0000",
+      "minecraft:cave_spider": "2026-10-03 17:01:53 +0000",
+      "minecraft:piglin": "2026-09-29 01:50:31 +0000",
+      "minecraft:enderman": "2026-09-29 02:04:06 +0000",
+      "minecraft:zombie": "2026-09-22 01:32:08 +0000",
       "minecraft:drowned": "2026-10-04 00:49:29 +0000",
-      "minecraft:slime": "2026-09-22 01:24:35 +0000"
+      "minecraft:zombie_villager": "2026-10-04 03:40:07 +0000"
     },
     "done": false
   },
@@ -37488,10 +37514,12 @@
       "golem": "2026-09-22 03:24:20 +0000",
       "hell_ogre": "2026-09-29 01:48:27 +0000",
       "goblin": "2026-09-22 01:47:57 +0000",
+      "owlbear": "2026-10-05 02:12:31 +0000",
       "silver_skeleton": "2026-09-29 01:13:18 +0000",
       "frost_scorpion": "2026-09-29 02:58:37 +0000",
       "ogre": "2026-09-22 03:23:22 +0000",
-      "scorpion": "2026-10-04 00:26:45 +0000"
+      "scorpion": "2026-10-04 00:26:45 +0000",
+      "dart_goblin": "2026-10-04 03:52:50 +0000"
     },
     "done": false
   },
@@ -37501,6 +37529,7 @@
       "golem": "2026-09-22 03:24:20 +0000",
       "werewolf": "2026-09-29 01:17:43 +0000",
       "goblin": "2026-09-22 01:47:57 +0000",
+      "owlbear": "2026-10-05 02:12:31 +0000",
       "silver_skeleton": "2026-09-29 01:13:18 +0000",
       "imp": "2026-09-29 01:56:04 +0000",
       "ogre": "2026-09-22 03:23:22 +0000",
@@ -37955,9 +37984,9 @@
     },
     "done": true
   },
-  "create:train_casing_00": {
+  "create:spout": {
     "criteria": {
-      "0": "2026-10-04 01:35:31 +0000"
+      "0": "2026-10-04 01:29:48 +0000"
     },
     "done": true
   },
@@ -37967,9 +37996,171 @@
     },
     "done": true
   },
-  "create:spout": {
+  "create:train_casing_00": {
     "criteria": {
-      "0": "2026-10-04 01:29:48 +0000"
+      "0": "2026-10-04 01:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2026-10-04 03:22:25 +0000"
+    },
+    "done": true
+  },
+  "camping:main/get_a_bundle": {
+    "criteria": {
+      "bundle": "2026-10-04 03:33:15 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2026-10-04 03:44:35 +0000"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2026-10-04 03:47:34 +0000"
+    },
+    "done": true
+  },
+  "create:cart_pickup": {
+    "criteria": {
+      "0": "2026-10-04 03:47:40 +0000"
+    },
+    "done": true
+  },
+  "create:self_deploying": {
+    "criteria": {
+      "0": "2026-10-04 03:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2026-10-04 04:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2026-10-04 04:31:29 +0000"
+    },
+    "done": true
+  },
+  "fangs_n_claws:taming/full_stable": {
+    "criteria": {
+      "horse_bat": "2026-10-04 04:31:29 +0000"
+    },
+    "done": false
+  },
+  "fangs_n_claws:taming/root": {
+    "criteria": {
+      "code": "2026-10-04 04:31:29 +0000"
+    },
+    "done": true
+  },
+  "fangs_n_claws:progression/skin_of_beast": {
+    "criteria": {
+      "code": "2026-10-04 04:40:16 +0000"
+    },
+    "done": true
+  },
+  "fangs_n_claws:taming/warm_blanket": {
+    "criteria": {
+      "code": "2026-10-04 04:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2026-10-04 18:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2026-10-04 18:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2026-10-04 18:28:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2026-10-04 18:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2026-10-04 18:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2026-10-04 18:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2026-10-04 18:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2026-10-04 18:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2026-10-04 18:49:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2026-10-04 21:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2026-10-04 22:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2026-10-04 22:04:09 +0000"
+    },
+    "done": true
+  },
+  "block_factorys_bosses:kill_boss_under_minute": {
+    "criteria": {
+      "kill_boss_under_minute_0": "2026-10-04 22:26:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/road_sign": {
+    "criteria": {
+      "structure_found": "2026-10-05 02:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2026-10-05 20:51:40 +0000"
     },
     "done": true
   },
