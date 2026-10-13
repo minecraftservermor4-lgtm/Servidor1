@@ -37252,6 +37252,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "barrel": "2026-10-09 01:08:34 +0000",
       "huntingpost": "2026-09-19 00:12:39 +0000",
       "miningbench": "2026-10-04 04:34:04 +0000",
       "oceanographytable": "2026-09-19 14:21:00 +0000",
@@ -37282,6 +37283,7 @@
       "cookie": "2026-10-04 00:46:58 +0000",
       "rabbit_stew": "2026-10-02 22:56:40 +0000",
       "beetroot": "2026-09-29 00:46:59 +0000",
+      "golden_carrot": "2026-10-07 19:55:01 +0000",
       "carrot": "2026-09-29 20:07:08 +0000"
     },
     "done": false
@@ -37495,7 +37497,8 @@
       "minecraft:skeleton": "2026-09-21 04:06:48 +0000",
       "minecraft:enderman": "2026-09-29 01:04:13 +0000",
       "minecraft:spider": "2026-09-22 00:04:19 +0000",
-      "minecraft:zombie": "2026-09-21 03:22:26 +0000"
+      "minecraft:zombie": "2026-09-21 03:22:26 +0000",
+      "minecraft:creeper": "2026-10-07 16:26:04 +0000"
     },
     "done": false
   },
@@ -37607,9 +37610,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2026-10-02 22:57:13 +0000"
+      "0": "2026-10-02 22:57:13 +0000",
+      "1": "2026-10-11 00:25:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
@@ -37647,6 +37651,12 @@
     },
     "done": true
   },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2026-10-07 01:44:59 +0000"
+    },
+    "done": true
+  },
   "create:copper_casing": {
     "criteria": {
       "0": "2026-10-07 01:48:25 +0000"
@@ -37659,11 +37669,131 @@
     },
     "done": true
   },
-  "create:brass_casing": {
+  "create:super_glue": {
     "criteria": {
-      "0": "2026-10-07 01:44:59 +0000"
+      "0": "2026-10-07 19:46:08 +0000"
     },
     "done": true
+  },
+  "create:windmill_maxed": {
+    "criteria": {
+      "0": "2026-10-07 19:46:56 +0000"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2026-10-07 19:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2026-10-07 20:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2026-10-07 20:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2026-10-07 20:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2026-10-07 20:47:07 +0000"
+    },
+    "done": false
+  },
+  "camping:recipes/large_backpack": {
+    "criteria": {
+      "has_leather": "2026-10-07 20:47:09 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2026-10-07 21:02:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/sus_sand": {
+    "criteria": {
+      "has_item_minecraft_sand_1": "2026-10-07 21:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2026-10-07 21:29:28 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2026-10-07 21:30:23 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2026-10-09 01:33:14 +0000"
+    },
+    "done": true
+  },
+  "create:cardboard": {
+    "criteria": {
+      "0": "2026-10-09 01:36:14 +0000"
+    },
+    "done": true
+  },
+  "create:stock_ticker": {
+    "criteria": {
+      "0": "2026-10-09 17:52:50 +0000"
+    },
+    "done": true
+  },
+  "create:packager": {
+    "criteria": {
+      "0": "2026-10-09 17:52:50 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2026-10-09 18:12:18 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2026-10-09 19:10:44 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2026-10-09 23:58:11 +0000"
+    },
+    "done": true
+  },
+  "camping:main/get_a_small_backpack": {
+    "criteria": {
+      "small_backpack": "2026-10-11 00:28:04 +0000"
+    },
+    "done": true
+  },
+  "camping:main/get_all_backpacks": {
+    "criteria": {
+      "camping:small_backpack": "2026-10-11 00:28:04 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }

@@ -37212,15 +37212,21 @@
       "minecraft:deep_ocean": "2026-09-29 02:00:25 +0000",
       "minecraft:deep_cold_ocean": "2026-10-04 03:21:43 +0000",
       "minecraft:frozen_ocean": "2026-10-04 23:08:19 +0000",
+      "minecraft:desert": "2026-10-07 15:57:07 +0000",
       "minecraft:frozen_river": "2026-10-04 23:09:57 +0000",
       "minecraft:deep_frozen_ocean": "2026-10-04 23:09:45 +0000",
       "minecraft:ocean": "2026-09-29 01:16:39 +0000",
       "minecraft:jungle": "2026-10-07 02:30:00 +0000",
+      "minecraft:sunflower_plains": "2026-10-07 19:23:02 +0000",
       "minecraft:birch_forest": "2026-09-29 01:24:37 +0000",
       "minecraft:windswept_hills": "2026-10-04 23:09:30 +0000",
       "minecraft:snowy_beach": "2026-10-04 23:10:00 +0000",
+      "minecraft:bamboo_jungle": "2026-10-07 15:56:38 +0000",
+      "minecraft:warm_ocean": "2026-10-07 15:57:04 +0000",
       "minecraft:deep_lukewarm_ocean": "2026-09-29 01:17:54 +0000",
       "minecraft:beach": "2026-09-22 01:25:53 +0000",
+      "minecraft:dark_forest": "2026-10-07 16:26:31 +0000",
+      "minecraft:mangrove_swamp": "2026-10-07 16:00:23 +0000",
       "minecraft:sparse_jungle": "2026-10-07 02:30:53 +0000",
       "minecraft:river": "2026-09-20 22:50:06 +0000",
       "minecraft:lukewarm_ocean": "2026-09-29 01:17:41 +0000",
@@ -37388,6 +37394,7 @@
       "werewolf": "2026-09-29 01:20:10 +0000",
       "ghost": "2026-09-22 01:39:53 +0000",
       "golem": "2026-10-04 00:37:17 +0000",
+      "desert_scorpion": "2026-10-07 16:08:52 +0000",
       "nether_scorpion": "2026-10-04 00:15:55 +0000",
       "goblin": "2026-09-29 01:21:15 +0000",
       "evil_bat": "2026-09-22 02:13:57 +0000",
@@ -37483,6 +37490,7 @@
       "minecraft:zombie": "2026-09-22 01:30:55 +0000",
       "minecraft:creeper": "2026-09-22 01:59:51 +0000",
       "minecraft:drowned": "2026-09-29 03:05:49 +0000",
+      "minecraft:zombie_villager": "2026-10-07 20:00:36 +0000",
       "minecraft:slime": "2026-09-22 01:37:13 +0000"
     },
     "done": false
@@ -37715,6 +37723,7 @@
   },
   "block_factorys_bosses:kill_all_bosses": {
     "criteria": {
+      "kill_worm": "2026-10-07 16:06:28 +0000",
       "kill_kraken": "2026-10-04 03:35:21 +0000"
     },
     "done": false
@@ -37848,6 +37857,42 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2026-10-07 02:30:34 +0000"
+    },
+    "done": true
+  },
+  "block_factorys_bosses:kill_sandworm": {
+    "criteria": {
+      "kill": "2026-10-07 16:06:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/road_sign": {
+    "criteria": {
+      "structure_found": "2026-10-07 16:11:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2026-10-07 20:44:05 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/make_everything": {
+    "criteria": {
+      "farm_and_charm:farmer_salad": "2026-10-07 19:53:36 +0000"
+    },
+    "done": false
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2026-10-07 20:49:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/item_lore": {
+    "criteria": {
+      "has_item_minecraft_name_tag_1": "2026-10-07 19:34:52 +0000"
     },
     "done": true
   },

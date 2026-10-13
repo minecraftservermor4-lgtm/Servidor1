@@ -37426,6 +37426,7 @@
       "stonecutter": "2026-10-01 03:36:22 +0000",
       "cauldron": "2026-09-22 00:56:59 +0000",
       "purpuraltar": "2026-10-04 19:15:20 +0000",
+      "decayedworkbench": "2026-10-07 20:17:56 +0000",
       "composter": "2026-10-01 01:06:04 +0000"
     },
     "done": false
@@ -38161,6 +38162,54 @@
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2026-10-05 20:51:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2026-10-07 15:52:42 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2026-10-07 16:08:30 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2026-10-07 16:11:54 +0000"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2026-10-07 16:17:14 +0000"
+    },
+    "done": true
+  },
+  "create:saw_processing": {
+    "criteria": {
+      "0": "2026-10-07 16:17:14 +0000"
+    },
+    "done": true
+  },
+  "quark:content/overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2026-10-07 17:36:26 +0000"
+    },
+    "done": true
+  },
+  "create:arm_blaze_burner": {
+    "criteria": {
+      "0": "2026-10-07 19:17:01 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2026-10-07 19:18:23 +0000"
     },
     "done": true
   },
